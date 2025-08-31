@@ -1,0 +1,2776 @@
+home_team,away_team,tournament_rank,home_rank,away_rank,home_team_gd,away_team_gd,target
+Kuwait,Australia,1,55,21,-57,24,0
+Thailand,Jordan,1,52,40,-50,-23,0
+United Arab Emirates,Malaysia,1,41,53,9,-76,1
+Zambia,South Korea,1,46,20,-25,44,1
+Egypt,Nigeria,1,25,30,1,-12,1
+Zambia,Tunisia,1,46,32,-25,-6,0
+Ivory Coast,Ghana,1,31,44,0,-12,1
+Cameroon,Zambia,1,33,46,-23,-25,1
+Chile,Panama,1,37,24,10,-74,1
+Oman,Sweden,1,45,23,-31,-1,0
+Thailand,Poland,1,52,27,-50,-33,0
+Cameroon,Tunisia,1,33,32,-23,-6,0
+United States,Honduras,1,14,50,57,-86,0
+Ivory Coast,Algeria,1,31,26,0,7,0
+Egypt,Cameroon,1,25,33,1,-23,1
+Zambia,Nigeria,1,46,30,-25,-12,0
+Argentina,Costa Rica,1,1,28,108,-58,1
+Algeria,Egypt,1,26,25,7,1,0
+Ghana,Nigeria,1,44,30,-12,-12,1
+Nigeria,Algeria,1,30,26,-12,7,1
+Ghana,Egypt,1,44,25,-12,1,0
+Japan,China PR,1,16,51,97,-47,0
+Argentina,Jamaica,1,1,42,108,-79,1
+China PR,South Korea,1,51,20,-47,44,1
+Japan,South Korea,1,16,20,97,44,0
+United States,El Salvador,1,14,47,57,-93,1
+Kuwait,Bahrain,1,55,49,-57,-54,1
+Belgium,Croatia,1,8,10,63,-5,0
+England,Egypt,1,4,25,42,1,1
+France,Spain,1,3,2,72,103,0
+Germany,Argentina,1,9,1,52,108,0
+Iran,Thailand,1,18,52,45,-50,1
+Italy,Cameroon,1,11,33,-2,-23,0
+Ivory Coast,South Korea,1,31,20,0,44,0
+Japan,Bahrain,1,16,49,97,-54,1
+Netherlands,United States,1,7,14,47,57,1
+Oman,Kuwait,1,45,55,-31,-57,0
+Portugal,China PR,1,6,51,77,-47,1
+Switzerland,Uruguay,1,17,15,4,45,0
+Turkey,Honduras,1,22,50,-20,-86,1
+Uzbekistan,United Arab Emirates,1,35,41,-4,9,0
+Mexico,Iceland,1,12,43,62,-81,0
+South Africa,Jamaica,1,36,42,-7,-79,1
+Mexico,Chile,1,12,37,62,10,1
+South Africa,Thailand,1,36,52,-7,-50,1
+England,Mexico,1,4,12,42,62,1
+Japan,South Korea,1,16,20,97,44,0
+Nigeria,Saudi Arabia,1,30,39,-12,-20,0
+Chile,Zambia,1,37,46,10,-25,1
+Estonia,Croatia,1,54,10,-118,-5,0
+France,Costa Rica,1,3,28,72,-58,1
+Netherlands,Mexico,1,7,12,47,62,1
+South Africa,Colombia,1,36,13,-7,66,1
+Spain,Saudi Arabia,1,2,39,103,-20,1
+United States,Turkey,1,14,22,57,-20,1
+Japan,England,1,16,4,97,42,0
+Nigeria,Colombia,1,30,13,-12,66,0
+Tunisia,France,1,32,3,-6,72,0
+Australia,Denmark,1,21,19,24,-9,1
+Netherlands,Ghana,1,7,44,47,-12,1
+Portugal,Cameroon,1,6,33,77,-23,1
+Switzerland,Costa Rica,1,17,28,4,-58,0
+Italy,Mexico,1,11,12,-2,62,0
+Spain,South Korea,1,2,20,103,44,1
+France,China PR,1,3,51,72,-47,0
+Japan,Ivory Coast,1,16,31,97,0,0
+Algeria,United Arab Emirates,1,26,41,7,9,1
+Australia,United States,1,21,14,24,57,0
+South Africa,Denmark,1,36,19,-7,-9,1
+Switzerland,Italy,1,17,11,4,-2,0
+Spain,Poland,1,2,27,103,-33,1
+South Africa,Mexico,3,36,12,-7,62,0
+Uruguay,France,3,15,3,45,72,0
+Argentina,Nigeria,3,1,30,108,-12,1
+England,United States,3,4,14,42,57,0
+Germany,Australia,3,9,21,52,24,1
+Japan,Cameroon,3,16,33,97,-23,1
+Netherlands,Denmark,3,7,19,47,-9,1
+Ivory Coast,Portugal,3,31,6,0,77,0
+Honduras,Chile,3,50,37,-86,10,0
+South Africa,Uruguay,3,36,15,-7,45,0
+Spain,Switzerland,3,2,17,103,4,0
+Argentina,South Korea,3,1,20,108,44,1
+France,Mexico,3,3,12,72,62,0
+England,Algeria,3,4,26,42,7,0
+Cameroon,Denmark,3,33,19,-23,-9,0
+Ghana,Australia,3,44,21,-12,24,0
+Netherlands,Japan,3,7,16,47,97,1
+Brazil,Ivory Coast,3,5,31,187,0,1
+Chile,Switzerland,3,37,17,10,4,1
+Spain,Honduras,3,2,50,103,-86,1
+Mexico,Uruguay,3,12,15,62,45,0
+Nigeria,South Korea,3,30,20,-12,44,0
+South Africa,France,3,36,3,-7,72,1
+Ghana,Germany,3,44,9,-12,52,0
+United States,Algeria,3,14,26,57,7,1
+Cameroon,Netherlands,3,33,7,-23,47,0
+Denmark,Japan,3,19,16,-9,97,0
+Chile,Spain,3,37,2,10,103,0
+Portugal,Brazil,3,6,5,77,187,0
+Switzerland,Honduras,3,17,50,4,-86,0
+Uruguay,South Korea,3,15,20,45,44,1
+United States,Ghana,3,14,44,57,-12,0
+Argentina,Mexico,3,1,12,108,62,1
+Germany,England,3,9,4,52,42,1
+Brazil,Chile,3,5,37,187,10,1
+Spain,Portugal,3,2,6,103,77,1
+Netherlands,Brazil,3,7,5,47,187,1
+Uruguay,Ghana,3,15,44,45,-12,0
+Argentina,Germany,3,1,9,108,52,0
+Uruguay,Netherlands,3,15,7,45,47,0
+Germany,Spain,3,9,2,52,103,0
+Uruguay,Germany,3,15,9,45,52,0
+Netherlands,Spain,3,7,2,47,103,0
+Italy,Ivory Coast,1,11,31,-2,0,0
+United States,Brazil,1,14,5,57,187,0
+China PR,Bahrain,1,51,49,-47,-54,0
+Denmark,Germany,1,19,9,-9,52,0
+South Korea,Nigeria,1,20,30,44,-12,1
+Mexico,Spain,1,12,2,62,103,0
+Poland,Cameroon,1,27,33,-33,-23,0
+South Africa,Ghana,1,36,44,-7,-12,1
+Uganda,Zambia,1,48,46,-31,-25,0
+Belgium,Germany,1,8,9,63,52,0
+China PR,Iran,1,51,18,-47,45,0
+Estonia,Italy,1,54,11,-118,-2,0
+Oman,Malaysia,1,45,53,-31,-76,1
+Panama,Costa Rica,1,24,28,-74,-58,0
+Qatar,Bahrain,1,34,49,-1,-54,0
+Switzerland,Australia,1,17,21,4,24,0
+El Salvador,Honduras,1,47,50,-93,-86,0
+Jamaica,Costa Rica,1,42,28,-79,-58,1
+Argentina,Spain,1,1,2,108,103,1
+Denmark,Iceland,1,19,43,-9,-81,1
+Estonia,Uzbekistan,1,54,35,-118,-4,0
+Jamaica,Peru,1,42,29,-79,-42,0
+South Korea,Iran,1,20,18,44,45,0
+Mexico,Colombia,1,12,13,62,66,1
+Poland,Australia,1,27,21,-33,24,0
+Qatar,Oman,1,34,45,-1,-31,0
+Switzerland,England,1,17,4,4,42,0
+Turkey,Belgium,1,22,8,-20,63,1
+United Arab Emirates,Kuwait,1,41,55,9,-57,1
+Jordan,Iraq,1,40,38,-23,-42,1
+Jordan,Bahrain,1,40,49,-23,-54,1
+Iraq,Oman,1,38,45,-42,-31,1
+Iran,Bahrain,1,18,49,45,-54,1
+Bahrain,Oman,1,49,45,-54,-31,1
+Jordan,Kuwait,1,40,55,-23,-57,0
+Oman,Iran,1,45,18,-31,45,0
+Iran,Iraq,1,18,38,45,-42,1
+Iran,Kuwait,1,18,55,45,-57,0
+Iran,Brazil,1,18,5,45,187,0
+Germany,Turkey,1,9,22,52,-20,1
+Japan,Argentina,1,16,1,97,108,1
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Panama,El Salvador,1,24,47,-74,-93,1
+Peru,Costa Rica,1,29,28,-42,-58,1
+Portugal,Denmark,1,6,19,77,-9,1
+Saudi Arabia,Uzbekistan,1,39,35,-20,-4,1
+United Arab Emirates,Chile,1,41,37,9,10,0
+United States,Poland,1,14,27,57,-33,0
+Bahrain,Uzbekistan,1,49,35,-54,-4,0
+China PR,Uruguay,1,51,15,-47,45,0
+Costa Rica,El Salvador,1,28,47,-58,-93,1
+Iceland,Portugal,1,43,6,-81,77,0
+South Korea,Japan,1,20,16,44,97,0
+Netherlands,Sweden,1,7,23,47,-1,1
+Oman,Chile,1,45,37,-31,10,0
+Panama,Peru,1,24,29,-74,-42,1
+Qatar,Iraq,1,34,38,-1,-42,0
+United States,Colombia,1,14,13,57,66,0
+Bahrain,Uganda,1,49,48,-54,-31,0
+Saudi Arabia,Uganda,1,39,48,-20,-31,0
+Argentina,Brazil,1,1,5,108,187,1
+Chile,Uruguay,1,37,15,10,45,1
+Colombia,Peru,1,13,29,66,-42,0
+Egypt,Australia,1,25,21,1,24,1
+England,France,1,4,3,42,72,0
+Iraq,Kuwait,1,38,55,-42,-57,0
+Jamaica,Costa Rica,1,42,28,-79,-58,0
+Netherlands,Turkey,1,7,22,47,-20,1
+Panama,Honduras,1,24,50,-74,-86,1
+Poland,Ivory Coast,1,27,31,-33,0,1
+Portugal,Spain,1,6,2,77,103,1
+Saudi Arabia,Ghana,1,39,44,-20,-12,0
+South Africa,United States,1,36,14,-7,57,0
+Sweden,Germany,1,23,9,-1,52,0
+Kuwait,Qatar,1,55,34,-57,-1,1
+Iraq,United Arab Emirates,1,38,41,-42,9,0
+Oman,Bahrain,1,45,49,-31,-54,0
+Saudi Arabia,Kuwait,1,39,55,-20,-57,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+United Arab Emirates,Oman,1,41,45,9,-31,0
+Qatar,Saudi Arabia,1,34,39,-1,-20,0
+Oman,Iraq,1,45,38,-31,-42,0
+United Arab Emirates,Bahrain,1,41,49,9,-54,1
+Kuwait,Iraq,1,55,38,-57,-42,0
+United Arab Emirates,Saudi Arabia,1,41,39,9,-20,0
+Thailand,Malaysia,1,52,53,-50,-76,0
+Kuwait,Saudi Arabia,1,55,39,-57,-20,1
+Qatar,Egypt,1,34,25,-1,1,1
+China PR,Estonia,1,51,54,-47,-118,1
+Honduras,Panama,1,50,24,-86,-74,1
+Qatar,Estonia,1,34,54,-1,-118,1
+Bahrain,Uzbekistan,1,49,35,-54,-4,0
+Bahrain,Jordan,1,49,40,-54,-23,1
+Saudi Arabia,Iraq,1,39,38,-20,-42,0
+Kuwait,Zambia,1,55,46,-57,-25,1
+Iraq,China PR,1,38,51,-42,-47,0
+Jordan,Uzbekistan,1,40,35,-23,-4,0
+United Arab Emirates,Australia,1,41,21,9,24,0
+Qatar,Uzbekistan,1,34,35,-1,-4,0
+Egypt,Uganda,1,25,48,1,-31,1
+Kuwait,China PR,1,55,51,-57,-47,0
+Japan,Jordan,1,16,40,97,-23,0
+South Korea,Bahrain,1,20,49,44,-54,1
+Iraq,Iran,1,38,18,-42,45,0
+Qatar,China PR,1,34,51,-1,-47,1
+Uzbekistan,Kuwait,1,35,55,-4,-57,1
+Jordan,Saudi Arabia,1,40,39,-23,-20,1
+Australia,South Korea,1,21,20,24,44,0
+Costa Rica,Honduras,1,28,50,-58,-86,0
+United Arab Emirates,Iraq,1,41,38,9,-42,0
+China PR,Uzbekistan,1,51,35,-47,-4,0
+Qatar,Kuwait,1,34,55,-1,-57,1
+Egypt,Uganda,1,25,48,1,-31,1
+Saudi Arabia,Japan,1,39,16,-20,97,0
+Australia,Bahrain,1,21,49,24,-54,1
+Panama,El Salvador,1,24,47,-74,-93,1
+United Arab Emirates,Iran,1,41,18,9,45,0
+Honduras,El Salvador,1,50,47,-86,-93,1
+Panama,Costa Rica,1,24,28,-74,-58,0
+Qatar,Japan,1,34,16,-1,97,0
+Uzbekistan,Jordan,1,35,40,-4,-23,1
+Australia,Iraq,1,21,38,24,-42,1
+Iran,South Korea,1,18,20,45,44,0
+United States,Chile,1,14,37,57,10,0
+Honduras,Costa Rica,1,50,28,-86,-58,1
+Panama,El Salvador,1,24,47,-74,-93,0
+Japan,South Korea,1,16,20,97,44,0
+Uzbekistan,Australia,1,35,21,-4,24,0
+Uzbekistan,South Korea,1,35,20,-4,44,0
+Australia,Japan,1,21,16,24,97,0
+Peru,Panama,1,29,24,-42,-74,1
+Argentina,Portugal,1,1,6,108,77,1
+Denmark,England,1,19,4,-9,42,0
+France,Brazil,1,3,5,72,187,1
+Germany,Italy,1,9,11,52,-2,0
+Spain,Colombia,1,2,13,103,66,1
+Turkey,South Korea,1,22,20,-20,44,0
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Estonia,Uruguay,1,54,15,-118,45,1
+South Korea,Honduras,1,20,50,44,-86,1
+Costa Rica,China PR,1,28,51,-58,-47,0
+Jordan,Kuwait,1,40,55,-23,-57,0
+Portugal,Chile,1,6,37,77,10,0
+South Africa,Egypt,1,36,25,-7,1,1
+United States,Argentina,1,14,1,57,108,0
+China PR,Honduras,1,51,50,-47,-86,1
+Colombia,Chile,1,13,37,66,10,0
+Costa Rica,Argentina,1,28,1,-58,108,0
+El Salvador,Jamaica,1,47,42,-93,-79,0
+England,Ghana,1,4,44,42,-12,0
+France,Croatia,1,3,10,72,-5,0
+Germany,Australia,1,9,21,52,24,0
+Kuwait,Iraq,1,55,38,-57,-42,1
+Oman,Tunisia,1,45,32,-31,-6,1
+El Salvador,Honduras,1,47,50,-93,-86,0
+Germany,Uruguay,1,9,15,52,45,1
+Japan,Peru,1,16,29,97,-42,0
+Nigeria,Argentina,1,30,1,-12,108,1
+Belgium,Turkey,1,8,22,63,-20,0
+Italy,Estonia,1,11,54,-2,-118,1
+Brazil,Netherlands,1,5,7,187,47,0
+England,Switzerland,1,4,17,42,4,0
+Iceland,Denmark,1,43,19,-81,-9,0
+United States,Spain,1,14,2,57,103,0
+China PR,Uzbekistan,1,51,35,-47,-4,1
+Egypt,South Africa,1,25,36,1,-7,0
+Mexico,El Salvador,1,12,47,62,-93,1
+Poland,Argentina,1,27,1,-33,108,1
+South Korea,Ghana,1,20,44,44,-12,1
+Uruguay,Netherlands,1,15,7,45,47,0
+Costa Rica,El Salvador,1,28,47,-58,-93,0
+Poland,France,1,27,3,-33,72,0
+United States,Panama,1,14,24,57,-74,0
+Mexico,Costa Rica,1,12,28,62,-58,1
+Honduras,Jamaica,1,50,42,-86,-79,0
+Costa Rica,Honduras,1,28,50,-58,-86,0
+Chile,Estonia,1,37,54,10,-118,1
+Panama,El Salvador,1,24,47,-74,-93,0
+United States,Jamaica,1,14,42,57,-79,1
+Honduras,Mexico,1,50,12,-86,62,0
+United States,Panama,1,14,24,57,-74,1
+Uruguay,Estonia,1,15,54,45,-118,1
+United States,Mexico,1,14,12,57,62,0
+Colombia,Costa Rica,3,13,28,66,-58,1
+Chile,Mexico,3,37,12,10,62,1
+Uruguay,Peru,3,15,29,45,-42,0
+Argentina,Colombia,3,1,13,108,66,0
+Kuwait,Oman,1,55,45,-57,-31,0
+Peru,Mexico,3,29,12,-42,62,1
+Uruguay,Chile,3,15,37,45,10,0
+Argentina,Costa Rica,3,1,28,108,-58,1
+Chile,Peru,3,37,29,10,-42,1
+Uruguay,Mexico,3,15,12,45,62,1
+Iraq,Kuwait,1,38,55,-42,-57,0
+Jordan,Saudi Arabia,1,40,39,-23,-20,0
+Argentina,Uruguay,3,1,15,108,45,0
+Colombia,Peru,3,13,29,66,-42,0
+Jordan,Iraq,1,40,38,-23,-42,0
+Kuwait,Saudi Arabia,1,55,39,-57,-20,1
+Peru,Uruguay,3,29,15,-42,45,0
+China PR,Jamaica,1,51,42,-47,-79,1
+France,Chile,1,3,37,72,10,0
+Germany,Brazil,1,9,5,52,187,1
+Italy,Spain,1,11,2,-2,103,1
+Japan,South Korea,1,16,20,97,44,1
+Oman,Bahrain,1,45,49,-31,-54,0
+Turkey,Estonia,1,22,54,-20,-118,1
+United States,Mexico,1,14,12,57,62,0
+Qatar,Iraq,1,34,38,-1,-42,0
+Jordan,Tunisia,1,40,32,-23,-6,0
+United Arab Emirates,Qatar,1,41,34,9,-1,1
+Oman,Kuwait,1,45,55,-31,-57,1
+Australia,Thailand,1,21,52,24,-50,1
+Bahrain,Qatar,1,49,34,-54,-1,0
+Iraq,Jordan,1,38,40,-42,-23,0
+Oman,Saudi Arabia,1,45,39,-31,-20,0
+Poland,Mexico,1,27,12,-33,62,0
+Spain,Chile,1,2,37,103,10,1
+United Arab Emirates,Kuwait,1,41,55,9,-57,0
+United States,Costa Rica,1,14,28,57,-58,0
+Honduras,Colombia,1,50,13,-86,66,0
+Mexico,Chile,1,12,37,62,10,1
+Brazil,Ghana,1,5,44,187,-12,1
+Argentina,Nigeria,1,1,30,108,-12,1
+Belgium,United States,1,8,14,63,57,1
+Jamaica,Colombia,1,42,13,-79,66,0
+Jordan,China PR,1,40,51,-23,-47,1
+Kuwait,South Korea,1,55,20,-57,44,0
+Poland,Germany,1,27,9,-33,52,0
+Qatar,Iran,1,34,18,-1,45,0
+Saudi Arabia,Australia,1,39,21,-20,24,0
+Thailand,Oman,1,52,45,-50,-31,1
+Uzbekistan,Japan,1,35,16,-4,97,0
+Argentina,Brazil,1,1,5,108,187,0
+Brazil,Argentina,1,5,1,187,108,1
+China PR,United Arab Emirates,1,51,41,-47,9,1
+Thailand,Jordan,1,52,40,-50,-23,0
+Argentina,Chile,1,1,37,108,10,1
+Australia,Malaysia,1,21,53,24,-76,1
+Costa Rica,Brazil,1,28,5,-58,187,0
+South Korea,Poland,1,20,27,44,-33,0
+Portugal,Iceland,1,6,43,77,-81,1
+Turkey,Germany,1,22,9,-20,52,0
+United States,Honduras,1,14,50,57,-86,1
+Australia,Oman,1,21,45,24,-31,1
+Chile,Peru,1,37,29,10,-42,1
+China PR,Iraq,1,51,38,-47,-42,0
+Denmark,Portugal,1,19,6,-9,77,1
+Germany,Belgium,1,9,8,52,63,1
+Ghana,Nigeria,1,44,30,-12,-12,0
+Honduras,Jamaica,1,50,42,-86,-79,1
+Iran,Bahrain,1,18,49,45,-54,1
+South Korea,United Arab Emirates,1,20,41,44,9,1
+Mexico,Brazil,1,12,5,62,187,0
+Sweden,Netherlands,1,23,7,-1,47,1
+Thailand,Saudi Arabia,1,52,39,-50,-20,0
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Qatar,Oman,1,34,45,-1,-31,0
+Bahrain,Iran,1,49,18,-54,45,0
+Denmark,Sweden,1,19,23,-9,-1,1
+France,United States,1,3,14,72,57,1
+Iraq,China PR,1,38,51,-42,-47,1
+Netherlands,Switzerland,1,7,17,47,4,0
+Oman,Australia,1,45,21,-31,24,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Poland,Italy,1,27,11,-33,-2,0
+Saudi Arabia,Thailand,1,39,52,-20,-50,1
+Turkey,Croatia,1,22,10,-20,-5,0
+United Arab Emirates,South Korea,1,41,20,9,44,0
+Uruguay,Chile,1,15,37,45,10,1
+Algeria,Tunisia,1,26,32,7,-6,1
+England,Spain,1,4,2,42,103,1
+South Africa,Ivory Coast,1,36,31,-7,0,0
+Brazil,Egypt,1,5,25,187,1,1
+Colombia,Argentina,1,13,1,66,108,0
+Costa Rica,Spain,1,28,2,-58,103,0
+Croatia,Turkey,1,10,22,-5,-20,0
+England,Sweden,1,4,23,42,-1,1
+France,Belgium,1,3,8,72,63,0
+Germany,Netherlands,1,9,7,52,47,1
+Italy,Uruguay,1,11,15,-2,45,0
+Jordan,Iraq,1,40,38,-23,-42,0
+Kuwait,United Arab Emirates,1,55,41,-57,9,1
+Nigeria,Zambia,1,30,46,-12,-25,1
+Qatar,Bahrain,1,34,49,-1,-54,0
+Saudi Arabia,Oman,1,39,45,-20,-31,0
+Thailand,Australia,1,52,21,-50,24,0
+Tunisia,Ivory Coast,1,32,31,-6,0,0
+Kuwait,Uzbekistan,1,55,35,-57,-4,1
+Bahrain,Sweden,1,49,23,-54,-1,0
+Panama,United States,1,24,14,-74,57,0
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,1
+Ghana,Tunisia,1,44,32,-12,-6,1
+Zambia,Ghana,1,46,44,-25,-12,1
+Zambia,Ivory Coast,1,46,31,-25,0,0
+China PR,Kuwait,1,51,55,-47,-57,1
+Iran,Jordan,1,18,40,45,-23,0
+Japan,Iceland,1,16,43,97,-81,1
+South Korea,Uzbekistan,1,20,35,44,-4,1
+Australia,Saudi Arabia,1,21,39,24,-20,1
+Chile,Ghana,1,37,44,10,-12,0
+China PR,Jordan,1,51,40,-47,-23,1
+Croatia,Sweden,1,10,23,-5,-1,0
+El Salvador,Estonia,1,47,54,-93,-118,0
+England,Netherlands,1,4,7,42,47,0
+Germany,France,1,9,3,52,72,0
+Iran,Qatar,1,18,34,45,-1,0
+Italy,United States,1,11,14,-2,57,0
+Japan,Uzbekistan,1,16,35,97,-4,0
+South Korea,Kuwait,1,20,55,44,-57,1
+Mexico,Colombia,1,12,13,62,66,0
+Oman,Thailand,1,45,52,-31,-50,1
+Poland,Portugal,1,27,6,-33,77,0
+Switzerland,Argentina,1,17,1,4,108,0
+Tunisia,Peru,1,32,29,-6,-42,0
+Chile,Peru,1,37,29,10,-42,1
+Jamaica,Costa Rica,1,42,28,-79,-58,0
+Egypt,Uganda,1,25,48,1,-31,1
+Costa Rica,Honduras,1,28,50,-58,-86,0
+Peru,Chile,1,29,37,-42,10,0
+Egypt,Nigeria,1,25,30,1,-12,1
+Egypt,Iraq,1,25,38,1,-42,0
+Egypt,Cameroon,1,25,33,1,-23,1
+Peru,Nigeria,1,29,30,-42,-12,1
+Croatia,Estonia,1,10,54,-5,-118,1
+Denmark,Brazil,1,19,5,-9,187,0
+Switzerland,Germany,1,17,9,4,52,1
+France,Iceland,1,3,43,72,-81,1
+Jamaica,Panama,1,42,24,-79,-74,0
+Spain,South Korea,1,2,20,103,44,1
+Sweden,Iceland,1,23,43,-1,-81,1
+United States,Brazil,1,14,5,57,187,0
+Panama,Jamaica,1,24,42,-74,-79,1
+Denmark,Australia,1,19,21,-9,24,1
+El Salvador,Honduras,1,47,50,-93,-86,0
+England,Belgium,1,4,8,42,63,1
+Portugal,Turkey,1,6,22,77,-20,0
+Japan,Oman,1,16,45,97,-31,1
+Jordan,Iraq,1,40,38,-23,-42,0
+Mexico,Brazil,1,12,5,62,187,1
+Peru,Colombia,1,29,13,-42,66,0
+Spain,China PR,1,2,51,103,-47,1
+Uzbekistan,Iran,1,35,18,-4,45,0
+France,Estonia,1,3,54,72,-118,1
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Costa Rica,El Salvador,1,28,47,-58,-93,0
+Honduras,Panama,1,50,24,-86,-74,0
+Japan,Jordan,1,16,40,97,-23,1
+Oman,Australia,1,45,21,-31,24,0
+Qatar,South Korea,1,34,20,-1,44,0
+Brazil,Argentina,1,5,1,187,108,0
+Germany,Portugal,3,9,6,52,77,1
+Netherlands,Denmark,3,7,19,47,-9,0
+Zambia,Ghana,1,46,44,-25,-12,1
+Spain,Italy,3,2,11,103,-2,0
+Uruguay,Peru,1,15,29,45,-42,1
+France,England,3,3,4,72,42,0
+Australia,Japan,1,21,16,24,97,0
+Bahrain,Kuwait,1,49,55,-54,-57,0
+El Salvador,Mexico,1,47,12,-93,62,0
+Iran,Qatar,1,18,34,45,-1,0
+Iraq,Oman,1,38,45,-42,-31,0
+Denmark,Portugal,3,19,6,-9,77,0
+Netherlands,Germany,3,7,9,47,52,0
+Italy,Croatia,3,11,10,-2,-5,0
+Sweden,England,3,23,4,-1,42,0
+Denmark,Germany,3,19,9,-9,52,0
+Portugal,Netherlands,3,6,7,77,47,1
+Croatia,Spain,3,10,2,-5,103,0
+Sweden,France,3,23,3,-1,72,1
+Saudi Arabia,Kuwait,1,39,55,-20,-57,1
+Spain,France,3,2,3,103,72,1
+England,Italy,3,4,11,42,-2,0
+Portugal,Spain,3,6,2,77,103,0
+Germany,Italy,3,9,11,52,-2,0
+Spain,Italy,3,2,11,103,-2,1
+Saudi Arabia,Iraq,1,39,38,-20,-42,0
+Jordan,Uzbekistan,1,40,35,-23,-4,0
+Belgium,Netherlands,1,8,7,63,47,1
+China PR,Ghana,1,51,44,-47,-12,0
+Costa Rica,Peru,1,28,29,-58,-42,0
+Croatia,Switzerland,1,10,17,-5,4,0
+El Salvador,Jamaica,1,47,42,-93,-79,0
+England,Italy,1,4,11,42,-2,1
+Estonia,Poland,1,54,27,-118,-33,1
+France,Uruguay,1,3,15,72,45,0
+Germany,Argentina,1,9,1,52,108,0
+Iran,Tunisia,1,18,32,45,-6,0
+Jordan,Uzbekistan,1,40,35,-23,-4,1
+South Korea,Zambia,1,20,46,44,-25,1
+Mexico,United States,1,12,14,62,57,0
+Oman,Egypt,1,45,25,-31,1,0
+Portugal,Panama,1,6,24,77,-74,1
+Sweden,Brazil,1,23,5,-1,187,0
+Jordan,Iran,1,40,18,-23,45,0
+Japan,United Arab Emirates,1,16,41,97,9,1
+Sweden,China PR,1,23,51,-1,-47,1
+Brazil,South Africa,1,5,36,187,-7,1
+Colombia,Uruguay,1,13,15,66,45,1
+Costa Rica,Mexico,1,28,12,-58,62,0
+Jamaica,United States,1,42,14,-79,57,1
+Netherlands,Turkey,1,7,22,47,-20,1
+Spain,Saudi Arabia,1,2,39,103,-20,1
+Uzbekistan,Kuwait,1,35,55,-4,-57,1
+Zambia,Uganda,1,46,48,-25,-31,1
+Brazil,China PR,1,5,51,187,-47,1
+Belgium,Croatia,1,8,10,63,-5,0
+Chile,Colombia,1,37,13,10,66,0
+Japan,Iraq,1,16,38,97,-42,1
+Jordan,Australia,1,40,21,-23,24,1
+Mexico,Costa Rica,1,12,28,62,-58,1
+Peru,Argentina,1,29,1,-42,108,0
+Turkey,Estonia,1,22,54,-20,-118,1
+United Arab Emirates,Kuwait,1,41,55,9,-57,1
+United States,Jamaica,1,14,42,57,-79,1
+Uzbekistan,South Korea,1,35,20,-4,44,0
+Brazil,Argentina,1,5,1,187,108,1
+Brazil,Iraq,1,5,38,187,-42,1
+Argentina,Uruguay,1,1,15,108,45,1
+El Salvador,Costa Rica,1,47,28,-93,-58,0
+France,Japan,1,3,16,72,97,0
+Panama,Honduras,1,24,50,-74,-86,0
+Poland,South Africa,1,27,36,-33,-7,1
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,0
+Uganda,Zambia,1,48,46,-31,-25,1
+Chile,Argentina,1,37,1,10,108,0
+Colombia,Cameroon,1,13,33,66,-23,1
+Egypt,Tunisia,1,25,32,1,-6,0
+Germany,Sweden,1,9,23,52,-1,0
+Iceland,Switzerland,1,43,17,-81,4,0
+Iran,South Korea,1,18,20,45,44,1
+Iraq,Australia,1,38,21,-42,24,0
+Italy,Denmark,1,11,19,-2,-9,1
+Japan,Brazil,1,16,5,97,187,0
+Mexico,El Salvador,1,12,47,62,-93,1
+Oman,Jordan,1,45,40,-31,-23,1
+Qatar,Uzbekistan,1,34,35,-1,-4,0
+Spain,France,1,2,3,103,72,0
+United Arab Emirates,Bahrain,1,41,49,9,-54,1
+Poland,England,1,27,4,-33,42,0
+Thailand,Malaysia,1,52,53,-50,-76,1
+Bahrain,Jordan,1,49,40,-54,-23,1
+Oman,Estonia,1,45,54,-31,-118,0
+Brazil,Colombia,1,5,13,187,66,0
+Honduras,Peru,1,50,29,-86,-42,0
+Iran,Uzbekistan,1,18,35,45,-4,0
+Iraq,Jordan,1,38,40,-42,-23,1
+Italy,France,1,11,3,-2,72,0
+South Korea,Australia,1,20,21,44,24,0
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Netherlands,Germany,1,7,9,47,52,0
+Oman,Japan,1,45,16,-31,97,0
+Panama,Spain,1,24,2,-74,103,0
+Poland,Uruguay,1,27,15,-33,45,0
+Saudi Arabia,Argentina,1,39,1,-20,108,0
+South Africa,Zambia,1,36,46,-7,-25,0
+Sweden,England,1,23,4,-1,42,1
+Tunisia,Switzerland,1,32,17,-6,4,0
+Turkey,Denmark,1,22,19,-20,-9,0
+United Arab Emirates,Estonia,1,41,54,9,-118,1
+Argentina,Brazil,1,1,5,108,187,1
+Iran,Saudi Arabia,1,18,39,45,-20,0
+Malaysia,Thailand,1,53,52,-76,-50,0
+Iraq,Jordan,1,38,40,-42,-23,1
+Kuwait,Oman,1,55,45,-57,-31,0
+Iran,Bahrain,1,18,49,45,-54,0
+Thailand,Malaysia,1,52,53,-50,-76,1
+Bahrain,Saudi Arabia,1,49,39,-54,-20,1
+Oman,Iraq,1,45,38,-31,-42,0
+Oman,Bahrain,1,45,49,-31,-54,1
+Qatar,Egypt,1,34,25,-1,1,0
+Iraq,Tunisia,1,38,32,-42,-6,0
+Bahrain,Oman,1,49,45,-54,-31,0
+Qatar,United Arab Emirates,1,34,41,-1,9,0
+Saudi Arabia,Iraq,1,39,38,-20,-42,0
+Bahrain,United Arab Emirates,1,49,41,-54,9,0
+Qatar,Oman,1,34,45,-1,-31,1
+Iraq,Kuwait,1,38,55,-42,-57,1
+Ghana,Egypt,1,44,25,-12,1,1
+Bahrain,Qatar,1,49,34,-54,-1,1
+United Arab Emirates,Oman,1,41,45,9,-31,1
+Kuwait,Saudi Arabia,1,55,39,-57,-20,1
+South Africa,Algeria,1,36,26,-7,7,0
+Ghana,Tunisia,1,44,32,-12,-6,1
+Ivory Coast,Egypt,1,31,25,0,1,1
+Bahrain,Iraq,1,49,38,-54,-42,0
+United Arab Emirates,Kuwait,1,41,55,9,-57,1
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Honduras,El Salvador,1,50,47,-86,-93,0
+United Arab Emirates,Iraq,1,41,38,9,-42,1
+El Salvador,Panama,1,47,24,-93,-74,0
+Panama,Honduras,1,24,50,-74,-86,0
+Tunisia,Algeria,1,32,26,-6,7,1
+Costa Rica,El Salvador,1,28,47,-58,-93,1
+Zambia,Nigeria,1,46,30,-25,-12,0
+Ivory Coast,Tunisia,1,31,32,0,-6,1
+Costa Rica,Honduras,1,28,50,-58,-86,1
+Algeria,Ivory Coast,1,26,31,7,0,0
+Oman,China PR,1,45,51,-31,-47,1
+Ivory Coast,Nigeria,1,31,30,0,-12,0
+Chile,Egypt,1,37,25,10,1,1
+Croatia,South Korea,1,10,20,-5,44,1
+England,Brazil,1,4,5,42,187,1
+France,Germany,1,3,9,72,52,0
+Honduras,United States,1,50,14,-86,57,1
+Mexico,Jamaica,1,12,42,62,-79,0
+Netherlands,Italy,1,7,11,47,-2,0
+Panama,Costa Rica,1,24,28,-74,-58,0
+Qatar,Malaysia,1,34,53,-1,-76,1
+Saudi Arabia,China PR,1,39,51,-20,-47,1
+Spain,Uruguay,1,2,15,103,45,1
+Sweden,Argentina,1,23,1,-1,108,0
+Thailand,Kuwait,1,52,55,-50,-57,0
+Qatar,Egypt,1,34,25,-1,1,1
+Malaysia,Saudi Arabia,1,53,39,-76,-20,0
+Qatar,Thailand,1,34,52,-1,-50,1
+Italy,Brazil,1,11,5,-2,187,0
+Bahrain,Qatar,1,49,34,-54,-1,1
+China PR,Iraq,1,51,38,-47,-42,1
+Honduras,Mexico,1,50,12,-86,62,0
+Jamaica,Panama,1,42,24,-79,-74,0
+Netherlands,Estonia,1,7,54,47,-118,1
+Peru,Chile,1,29,37,-42,10,1
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,1
+United States,Costa Rica,1,14,28,57,-58,1
+Australia,Oman,1,21,45,24,-31,0
+Chile,Uruguay,1,37,15,10,45,1
+Costa Rica,Jamaica,1,28,42,-58,-79,1
+France,Spain,1,3,2,72,103,0
+Jordan,Japan,1,40,16,-23,97,1
+South Korea,Qatar,1,20,34,44,-1,1
+Kuwait,Iran,1,55,18,-57,45,0
+Mexico,United States,1,12,14,62,57,0
+Panama,Honduras,1,24,50,-74,-86,1
+Mexico,Peru,1,12,29,62,-42,0
+Brazil,Chile,1,5,37,187,10,0
+Oman,Iran,1,45,18,-31,45,1
+United States,Belgium,1,14,8,57,63,0
+Mexico,Nigeria,1,12,30,62,-12,0
+Panama,Peru,1,24,29,-74,-42,0
+Brazil,England,1,5,4,187,42,0
+United States,Germany,1,14,9,57,52,1
+Jamaica,Mexico,1,42,12,-79,62,0
+Japan,Australia,1,16,21,97,24,0
+Oman,Iraq,1,45,38,-31,-42,1
+Qatar,Iran,1,34,18,-1,45,0
+Uruguay,France,1,15,3,45,72,1
+China PR,Uzbekistan,1,51,35,-47,-4,0
+Argentina,Colombia,1,1,13,108,66,0
+Costa Rica,Honduras,1,28,50,-58,-86,1
+Jamaica,United States,1,42,14,-79,57,0
+Panama,Mexico,1,24,12,-74,62,0
+Brazil,France,1,5,3,187,72,1
+Croatia,Portugal,1,10,6,-5,77,0
+Australia,Jordan,1,21,40,24,-23,1
+China PR,Netherlands,1,51,7,-47,47,0
+Colombia,Peru,1,13,29,66,-42,1
+Honduras,Jamaica,1,50,42,-86,-79,1
+Iraq,Japan,1,38,16,-42,97,0
+South Korea,Uzbekistan,1,20,35,44,-4,1
+Mexico,Costa Rica,1,12,28,62,-58,0
+United States,Panama,1,14,24,57,-74,1
+Ghana,Ivory Coast,1,44,31,-12,0,1
+Ghana,Ivory Coast,1,44,31,-12,0,0
+Brazil,Japan,1,5,16,187,97,1
+China PR,Thailand,1,51,52,-47,-50,0
+Mexico,Italy,1,12,11,62,-2,0
+Spain,Uruguay,1,2,15,103,45,1
+Australia,Iraq,1,21,38,24,-42,1
+Costa Rica,Panama,1,28,24,-58,-74,1
+Jordan,Oman,1,40,45,-23,-31,1
+South Korea,Iran,1,20,18,44,45,0
+United States,Honduras,1,14,50,57,-86,1
+Uzbekistan,Qatar,1,35,34,-4,-1,1
+Brazil,Mexico,1,5,12,187,62,1
+Italy,Japan,1,11,16,-2,97,1
+Nigeria,Uruguay,1,30,15,-12,45,0
+Brazil,Italy,1,5,11,187,-2,1
+Japan,Mexico,1,16,12,97,62,0
+Nigeria,Spain,1,30,2,-12,103,0
+Brazil,Uruguay,1,5,15,187,45,1
+Spain,Italy,1,2,11,103,-2,0
+Brazil,Spain,1,5,2,187,103,1
+Uruguay,Italy,1,15,11,45,-2,0
+Mexico,Panama,1,12,24,62,-74,0
+Honduras,El Salvador,1,50,47,-86,-93,1
+United States,Costa Rica,1,14,28,57,-58,1
+Zambia,South Africa,1,46,36,-25,-7,0
+South Korea,Australia,1,20,21,44,24,0
+Honduras,Costa Rica,1,50,28,-86,-58,1
+Japan,China PR,1,16,51,97,-47,0
+United States,El Salvador,1,14,47,57,-93,1
+South Korea,China PR,1,20,51,44,-47,0
+Panama,Mexico,1,24,12,-74,62,1
+United States,Honduras,1,14,50,57,-86,1
+Japan,Australia,1,16,21,97,24,1
+Australia,China PR,1,21,51,24,-47,0
+South Korea,Japan,1,20,16,44,97,0
+United States,Panama,1,14,24,57,-74,1
+Belgium,France,1,8,3,63,72,0
+Chile,Iraq,1,37,38,10,-42,1
+Egypt,Uganda,1,25,48,1,-31,1
+Italy,Argentina,1,11,1,-2,108,0
+Japan,Uruguay,1,16,15,97,45,0
+South Korea,Peru,1,20,29,44,-42,0
+Mexico,Ivory Coast,1,12,31,62,0,1
+Poland,Denmark,1,27,19,-33,-9,1
+Portugal,Netherlands,1,6,7,77,47,0
+South Africa,Nigeria,1,36,30,-7,-12,0
+Switzerland,Brazil,1,17,5,4,187,1
+Turkey,Ghana,1,22,44,-20,-12,0
+Costa Rica,United States,1,28,14,-58,57,1
+Estonia,Netherlands,1,54,7,-118,47,0
+Ghana,Zambia,1,44,46,-12,-25,1
+Jordan,Uzbekistan,1,40,35,-23,-4,0
+Mexico,Honduras,1,12,50,62,-86,0
+Panama,Jamaica,1,24,42,-74,-79,0
+Peru,Uruguay,1,29,15,-42,45,0
+Switzerland,Iceland,1,17,43,4,-81,0
+Brazil,Australia,1,5,21,187,24,1
+Kuwait,Bahrain,1,55,49,-57,-54,1
+Brazil,Portugal,1,5,6,187,77,1
+China PR,Malaysia,1,51,53,-47,-76,1
+Honduras,Panama,1,50,24,-86,-74,0
+Jamaica,Costa Rica,1,42,28,-79,-58,0
+Japan,Ghana,1,16,44,97,-12,1
+South Korea,Croatia,1,20,10,44,-5,0
+Spain,Chile,1,2,37,103,10,0
+Uruguay,Colombia,1,15,13,45,66,1
+United States,Mexico,1,14,12,57,62,1
+Uzbekistan,Jordan,1,35,40,-4,-23,0
+Egypt,Uganda,1,25,48,1,-31,1
+Jordan,Kuwait,1,40,55,-23,-57,0
+Thailand,Bahrain,1,52,49,-50,-54,1
+Argentina,Peru,1,1,29,108,-42,1
+Colombia,Chile,1,13,37,66,10,0
+Croatia,Belgium,1,10,8,-5,63,0
+Denmark,Italy,1,19,11,-9,-2,0
+Estonia,Turkey,1,54,22,-118,-20,0
+France,Australia,1,3,21,72,24,1
+Honduras,Costa Rica,1,50,28,-86,-58,1
+Mexico,Panama,1,12,24,62,-74,1
+United States,Jamaica,1,14,42,57,-79,1
+South Korea,Brazil,1,20,5,44,187,0
+Tunisia,Cameroon,1,32,33,-6,-23,0
+Brazil,Zambia,1,5,46,187,-25,1
+Costa Rica,Mexico,1,28,12,-58,62,1
+England,Poland,1,4,27,42,-33,1
+Ghana,Egypt,1,44,25,-12,1,1
+Iran,Thailand,1,18,52,45,-50,1
+Iraq,Saudi Arabia,1,38,39,-42,-20,0
+Jamaica,Honduras,1,42,50,-79,-86,0
+Jordan,Oman,1,40,45,-23,-31,0
+Malaysia,Bahrain,1,53,49,-76,-54,0
+Panama,United States,1,24,14,-74,57,0
+Sweden,Germany,1,23,9,-1,52,0
+Turkey,Netherlands,1,22,7,-20,47,0
+Uruguay,Argentina,1,15,1,45,108,1
+Jordan,Nigeria,1,40,30,-23,-12,1
+Jordan,Zambia,1,40,46,-23,-25,1
+Kuwait,Malaysia,1,55,53,-57,-76,1
+Jordan,Uruguay,1,40,15,-23,45,0
+Belgium,Colombia,1,8,13,63,66,0
+Egypt,Zambia,1,25,46,1,-25,1
+Bahrain,Malaysia,1,49,53,-54,-76,1
+England,Chile,1,4,37,42,10,0
+Iceland,Croatia,1,43,10,-81,-5,0
+Italy,Germany,1,11,9,-2,52,0
+South Korea,Switzerland,1,20,17,44,4,1
+Portugal,Sweden,1,6,23,77,-1,1
+Saudi Arabia,Iraq,1,39,38,-20,-42,1
+Thailand,Iran,1,52,18,-50,45,0
+Honduras,Brazil,1,50,5,-86,187,0
+Netherlands,Japan,1,7,16,47,97,0
+Cameroon,Tunisia,1,33,32,-23,-6,1
+Italy,Nigeria,1,11,30,-2,-12,0
+Australia,Costa Rica,1,21,28,24,-58,1
+Belgium,Japan,1,8,16,63,97,0
+Brazil,Chile,1,5,37,187,10,1
+China PR,Saudi Arabia,1,51,39,-47,-20,0
+Croatia,Iceland,1,10,43,-5,-81,1
+Egypt,Ghana,1,25,44,1,-12,1
+England,Germany,1,4,9,42,52,0
+Kuwait,Thailand,1,55,52,-57,-50,1
+Malaysia,Qatar,1,53,34,-76,-1,0
+Netherlands,Colombia,1,7,13,47,66,0
+South Africa,Spain,1,36,2,-7,103,1
+Sweden,Portugal,1,23,6,-1,77,0
+Uruguay,Jordan,1,15,40,45,-23,0
+Qatar,Bahrain,1,34,49,-1,-54,0
+Oman,Bahrain,1,45,49,-31,-54,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+Iraq,Oman,1,38,45,-42,-31,0
+Qatar,Saudi Arabia,1,34,39,-1,-20,1
+Kuwait,Jordan,1,55,40,-57,-23,0
+Bahrain,Jordan,1,49,40,-54,-23,0
+Qatar,Kuwait,1,34,55,-1,-57,1
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Qatar,Jordan,1,34,40,-1,-23,1
+Iceland,Sweden,1,43,23,-81,-1,0
+Chile,Costa Rica,1,37,28,10,-58,1
+Costa Rica,South Korea,1,28,20,-58,44,0
+Mexico,South Korea,1,12,20,62,44,1
+Oman,Jordan,1,45,40,-31,-23,0
+United States,South Korea,1,14,20,57,44,1
+Iran,Kuwait,1,18,55,45,-57,1
+Belgium,Ivory Coast,1,8,31,63,0,0
+Colombia,Tunisia,1,13,32,66,-6,0
+England,Denmark,1,4,19,42,-9,1
+France,Netherlands,1,3,7,72,47,1
+Germany,Chile,1,9,37,52,10,1
+Iraq,China PR,1,38,51,-42,-47,1
+Portugal,Cameroon,1,6,33,77,-23,1
+Qatar,Bahrain,1,34,49,-1,-54,0
+South Africa,Brazil,1,36,5,-7,187,0
+Spain,Italy,1,2,11,103,-2,1
+Switzerland,Croatia,1,17,10,4,-5,0
+Turkey,Sweden,1,22,23,-20,-1,1
+Uzbekistan,United Arab Emirates,1,35,41,-4,9,0
+Zambia,Uganda,1,46,48,-25,-31,1
+Germany,Poland,1,9,27,52,-33,0
+Thailand,Kuwait,1,52,55,-50,-57,0
+Australia,South Africa,1,21,36,24,-7,0
+Uzbekistan,Oman,1,35,45,-4,-31,0
+Denmark,Sweden,1,19,23,-9,-1,1
+South Korea,Tunisia,1,20,32,44,-6,0
+Uzbekistan,Oman,1,35,45,-4,-31,0
+England,Peru,1,4,29,42,-42,1
+Switzerland,Jamaica,1,17,42,4,-79,1
+Netherlands,Ghana,1,7,44,47,-12,1
+Germany,Cameroon,1,9,33,52,-23,0
+Sweden,Belgium,1,23,8,-1,63,0
+United States,Turkey,1,14,22,57,-20,1
+Costa Rica,Japan,1,28,16,-58,97,0
+Brazil,Panama,1,5,24,187,-74,1
+Switzerland,Peru,1,17,29,4,-42,1
+El Salvador,Ivory Coast,1,47,31,-93,0,0
+Iceland,Estonia,1,43,54,-81,-118,1
+Jamaica,Egypt,1,42,25,-79,1,0
+Colombia,Jordan,1,13,40,66,-23,1
+Croatia,Australia,1,10,21,-5,24,1
+Japan,Zambia,1,16,46,97,-25,1
+Mexico,Portugal,1,12,6,62,77,0
+Belgium,Tunisia,1,8,32,63,-6,1
+El Salvador,Spain,1,47,2,-93,103,0
+Honduras,England,1,50,4,-86,42,0
+United States,Nigeria,1,14,30,57,-12,1
+France,Jamaica,1,3,42,72,-79,1
+Ghana,South Korea,1,44,20,-12,44,1
+Brazil,Croatia,3,5,10,187,-5,1
+Chile,Australia,3,37,21,10,24,1
+Mexico,Cameroon,3,12,33,62,-23,1
+Spain,Netherlands,3,2,7,103,47,0
+England,Italy,3,4,11,42,-2,0
+Ivory Coast,Japan,3,31,16,0,97,1
+Uruguay,Costa Rica,3,15,28,45,-58,0
+France,Honduras,3,3,50,72,-86,1
+Germany,Portugal,3,9,6,52,77,1
+Ghana,United States,3,44,14,-12,57,0
+Iran,Nigeria,3,18,30,45,-12,0
+Belgium,Algeria,3,8,26,63,7,1
+Brazil,Mexico,3,5,12,187,62,0
+Australia,Netherlands,3,21,7,24,47,0
+Cameroon,Croatia,3,33,10,-23,-5,0
+Spain,Chile,3,2,37,103,10,0
+Colombia,Ivory Coast,3,13,31,66,0,1
+Uruguay,England,3,15,4,45,42,1
+Italy,Costa Rica,3,11,28,-2,-58,0
+Switzerland,France,3,17,3,4,72,0
+Argentina,Iran,3,1,18,108,45,1
+Germany,Ghana,3,9,44,52,-12,0
+South Korea,Algeria,3,20,26,44,7,0
+United States,Portugal,3,14,6,57,77,0
+Australia,Spain,3,21,2,24,103,0
+Brazil,Cameroon,3,5,33,187,-23,1
+Croatia,Mexico,3,10,12,-5,62,0
+Netherlands,Chile,3,7,37,47,10,1
+Costa Rica,England,3,28,4,-58,42,0
+Italy,Uruguay,3,11,15,-2,45,0
+Japan,Colombia,3,16,13,97,66,0
+Honduras,Switzerland,3,50,17,-86,4,0
+Nigeria,Argentina,3,30,1,-12,108,0
+South Korea,Belgium,3,20,8,44,63,0
+Portugal,Ghana,3,6,44,77,-12,1
+United States,Germany,3,14,9,57,52,0
+Brazil,Chile,3,5,37,187,10,0
+Colombia,Uruguay,3,13,15,66,45,1
+Netherlands,Mexico,3,7,12,47,62,1
+France,Nigeria,3,3,30,72,-12,1
+Germany,Algeria,3,9,26,52,7,1
+Argentina,Switzerland,3,1,17,108,4,1
+Belgium,United States,3,8,14,63,57,1
+Brazil,Colombia,3,5,13,187,66,1
+France,Germany,3,3,9,72,52,0
+Argentina,Belgium,3,1,8,108,63,1
+Netherlands,Costa Rica,3,7,28,47,-58,0
+Brazil,Germany,3,5,9,187,52,0
+Netherlands,Argentina,3,7,1,47,108,0
+Brazil,Netherlands,3,5,7,187,47,0
+Germany,Argentina,3,9,1,52,108,1
+Peru,Panama,1,29,24,-42,-74,1
+Denmark,Turkey,1,19,22,-9,-20,0
+Germany,Argentina,1,9,1,52,108,0
+Belgium,Australia,1,8,21,63,24,1
+China PR,Kuwait,1,51,55,-47,-57,1
+France,Spain,1,3,2,72,103,1
+Iraq,Peru,1,38,29,-42,-42,0
+Italy,Netherlands,1,11,7,-2,47,1
+Sweden,Estonia,1,23,54,-1,-118,1
+Uzbekistan,Jordan,1,35,40,-4,-23,1
+Japan,Uruguay,1,16,15,97,45,0
+Brazil,Colombia,1,5,13,187,66,1
+Ghana,Uganda,1,44,48,-12,-31,0
+Mexico,Chile,1,12,37,62,10,0
+Costa Rica,Panama,1,28,24,-58,-74,0
+Australia,Saudi Arabia,1,21,39,24,-20,1
+South Korea,Uruguay,1,20,15,44,45,0
+Switzerland,England,1,17,4,4,42,0
+China PR,Jordan,1,51,40,-47,-23,0
+Iceland,Turkey,1,43,22,-81,-20,1
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Qatar,Peru,1,34,29,-1,-42,0
+Cameroon,Ivory Coast,1,33,31,-23,0,1
+Egypt,Tunisia,1,25,32,1,-6,0
+South Africa,Nigeria,1,36,30,-7,-12,0
+Qatar,Uzbekistan,1,34,35,-1,-4,1
+China PR,Thailand,1,51,52,-47,-50,1
+Japan,Jamaica,1,16,42,97,-79,1
+Jordan,Kuwait,1,40,55,-23,-57,0
+Oman,Costa Rica,1,45,28,-31,-58,0
+Saudi Arabia,Uruguay,1,39,15,-20,45,0
+United Arab Emirates,Australia,1,41,21,9,24,0
+Uzbekistan,Bahrain,1,35,49,-4,-54,0
+Chile,Peru,1,37,29,10,-42,1
+Argentina,Brazil,1,1,5,108,187,0
+France,Portugal,1,3,6,72,77,1
+Poland,Germany,1,27,9,-33,52,1
+Estonia,England,1,54,4,-118,42,0
+Mexico,Panama,1,12,24,62,-74,1
+Iceland,Netherlands,1,43,7,-81,47,1
+Jordan,Kuwait,1,40,55,-23,-57,0
+Oman,Uruguay,1,45,15,-31,45,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+Denmark,Portugal,1,19,6,-9,77,0
+Japan,Brazil,1,16,5,97,187,0
+South Korea,Costa Rica,1,20,28,44,-58,0
+Qatar,Australia,1,34,21,-1,24,1
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,0
+United States,Honduras,1,14,50,57,-86,0
+Zambia,Ivory Coast,1,46,31,-25,0,0
+Argentina,Croatia,1,1,10,108,-5,1
+Belgium,Iceland,1,8,43,63,-81,1
+Netherlands,Mexico,1,7,12,47,62,0
+Turkey,Brazil,1,22,5,-20,187,0
+Saudi Arabia,Qatar,1,39,34,-20,-1,0
+Uruguay,Costa Rica,1,15,28,45,-58,0
+Iraq,Kuwait,1,38,55,-42,-57,0
+Japan,Honduras,1,16,50,97,-86,1
+Jordan,South Korea,1,40,20,-23,44,0
+United Arab Emirates,Oman,1,41,45,9,-31,0
+United States,Colombia,1,14,13,57,66,0
+Uganda,Ghana,1,48,44,-31,-12,1
+Italy,Croatia,1,11,10,-2,-5,0
+Saudi Arabia,Bahrain,1,39,49,-20,-54,1
+Iraq,Oman,1,38,45,-42,-31,0
+United Arab Emirates,Kuwait,1,41,55,9,-57,0
+Chile,Uruguay,1,37,15,10,45,0
+China PR,Honduras,1,51,50,-47,-86,0
+Estonia,Jordan,1,54,40,-118,-23,1
+France,Sweden,1,3,23,72,-1,1
+Iran,South Korea,1,18,20,45,44,1
+Japan,Australia,1,16,21,97,24,1
+Poland,Switzerland,1,27,17,-33,4,0
+Portugal,Argentina,1,6,1,77,108,1
+Spain,Germany,1,2,9,103,52,0
+Bahrain,Qatar,1,49,34,-54,-1,0
+Ivory Coast,Cameroon,1,31,33,0,-23,0
+Nigeria,South Africa,1,30,36,-12,-7,0
+Tunisia,Egypt,1,32,25,-6,1,1
+Kuwait,Oman,1,55,45,-57,-31,0
+United Arab Emirates,Iraq,1,41,38,9,-42,1
+Oman,Qatar,1,45,34,-31,-1,0
+Saudi Arabia,United Arab Emirates,1,39,41,-20,9,1
+United Arab Emirates,Oman,1,41,45,9,-31,1
+Malaysia,Thailand,1,53,52,-76,-50,0
+Saudi Arabia,Qatar,1,39,34,-20,-1,0
+South Africa,Ivory Coast,1,36,31,-7,0,1
+Thailand,Malaysia,1,52,53,-50,-76,1
+Malaysia,Thailand,1,53,52,-76,-50,1
+Uzbekistan,Jordan,1,35,40,-4,-23,1
+Iraq,Kuwait,1,38,55,-42,-57,0
+Uzbekistan,Iraq,1,35,38,-4,-42,1
+Qatar,Estonia,1,34,54,-1,-118,1
+Uzbekistan,Iraq,1,35,38,-4,-42,0
+Bahrain,Saudi Arabia,1,49,39,-54,-20,1
+United Arab Emirates,Jordan,1,41,40,9,-23,1
+Qatar,Oman,1,34,45,-1,-31,0
+Bahrain,Jordan,1,49,40,-54,-23,1
+Iran,Iraq,1,18,38,45,-42,1
+South Korea,Saudi Arabia,1,20,39,44,-20,1
+South Africa,Zambia,1,36,46,-7,-25,1
+China PR,Oman,1,51,45,-47,-31,1
+Australia,Kuwait,1,21,55,24,-57,1
+Cameroon,South Africa,1,33,36,-23,-7,0
+South Korea,Oman,1,20,45,44,-31,1
+Saudi Arabia,China PR,1,39,51,-20,-47,0
+Iran,Bahrain,1,18,49,45,-54,1
+Nigeria,Ivory Coast,1,30,31,-12,0,0
+Tunisia,Algeria,1,32,26,-6,7,0
+United Arab Emirates,Qatar,1,41,34,9,-1,1
+Jordan,Iraq,1,40,38,-23,-42,0
+Australia,Oman,1,21,45,24,-31,1
+Kuwait,South Korea,1,55,20,-57,44,0
+China PR,Uzbekistan,1,51,35,-47,-4,1
+Bahrain,United Arab Emirates,1,49,41,-54,9,0
+Qatar,Iran,1,34,18,-1,45,0
+Sweden,Ivory Coast,1,23,31,-1,0,1
+Iraq,Japan,1,38,16,-42,97,0
+Australia,South Korea,1,21,20,24,44,0
+Oman,Kuwait,1,45,55,-31,-57,1
+Uzbekistan,Saudi Arabia,1,35,39,-4,-20,1
+Algeria,South Africa,1,26,36,7,-7,1
+Iran,United Arab Emirates,1,18,41,45,9,1
+Qatar,Bahrain,1,34,49,-1,-54,0
+Japan,Jordan,1,16,40,97,-23,1
+Australia,China PR,1,21,51,24,-47,1
+South Korea,Uzbekistan,1,20,35,44,-4,1
+Zambia,Tunisia,1,46,32,-25,-6,0
+Ghana,Algeria,1,44,26,-12,7,1
+Iran,Iraq,1,18,38,45,-42,0
+Japan,United Arab Emirates,1,16,41,97,9,0
+South Korea,Iraq,1,20,38,44,-42,1
+Australia,United Arab Emirates,1,21,41,24,9,1
+South Africa,Ghana,1,36,44,-7,-12,0
+Cameroon,Ivory Coast,1,33,31,-23,0,0
+Chile,United States,1,37,14,10,57,1
+Iraq,United Arab Emirates,1,38,41,-42,9,0
+Australia,South Korea,1,21,20,24,44,1
+Ivory Coast,Algeria,1,31,26,0,7,1
+Ivory Coast,Ghana,1,31,44,0,-12,0
+United States,Panama,1,14,24,57,-74,1
+Denmark,United States,1,19,14,-9,57,1
+Germany,Australia,1,9,21,52,24,0
+Nigeria,Uganda,1,30,48,-12,-31,0
+Bahrain,Colombia,1,49,13,-54,66,0
+Chile,Iran,1,37,18,10,45,0
+France,Brazil,1,3,5,72,187,0
+Oman,Malaysia,1,45,53,-31,-76,1
+Qatar,Algeria,1,34,26,-1,7,1
+Japan,Tunisia,1,16,32,97,-6,1
+South Korea,Uzbekistan,1,20,35,44,-4,0
+Switzerland,Estonia,1,17,54,4,-118,1
+Argentina,El Salvador,1,1,47,108,-93,1
+Netherlands,Turkey,1,7,22,47,-20,0
+Brazil,Chile,1,5,37,187,10,1
+France,Denmark,1,3,19,72,-9,1
+South Africa,Nigeria,1,36,30,-7,-12,0
+Kuwait,Colombia,1,55,13,-57,66,0
+Oman,Algeria,1,45,26,-31,7,0
+Saudi Arabia,Jordan,1,39,40,-20,-23,1
+Thailand,Cameroon,1,52,33,-50,-23,0
+China PR,Tunisia,1,51,32,-47,-6,0
+Estonia,Iceland,1,54,43,-118,-81,0
+Italy,England,1,11,4,-2,42,0
+Japan,Uzbekistan,1,16,35,97,-4,1
+Netherlands,Spain,1,7,2,47,103,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Sweden,Iran,1,23,18,-1,45,1
+Switzerland,United States,1,17,14,4,57,0
+United States,Mexico,1,14,12,57,62,1
+Zambia,Ghana,1,46,44,-25,-12,1
+Bahrain,Oman,1,49,45,-54,-31,0
+El Salvador,Honduras,1,47,50,-93,-86,0
+Peru,Mexico,1,29,12,-42,62,0
+Jordan,Kuwait,1,40,55,-23,-57,0
+Netherlands,United States,1,7,14,47,57,0
+Thailand,Bahrain,1,52,49,-50,-54,0
+Colombia,Costa Rica,1,13,28,66,-58,1
+Brazil,Mexico,1,5,12,187,62,1
+France,Belgium,1,3,8,72,63,0
+Brazil,Honduras,1,5,50,187,-86,1
+Germany,United States,1,9,14,52,57,0
+Japan,Iraq,1,16,38,97,-42,1
+South Korea,United Arab Emirates,1,20,41,44,9,1
+Spain,Costa Rica,1,2,28,103,-58,1
+Uzbekistan,Iran,1,35,18,-4,45,0
+Croatia,Italy,1,10,11,-5,-2,0
+Uruguay,Jamaica,3,15,42,45,-79,1
+Brazil,Peru,3,5,29,187,-42,1
+Chile,Mexico,3,37,12,10,62,0
+Argentina,Uruguay,3,1,15,108,45,1
+Italy,Portugal,1,11,6,-2,77,0
+Brazil,Colombia,3,5,13,187,66,0
+Argentina,Jamaica,3,1,42,108,-79,1
+Colombia,Peru,3,13,29,66,-42,0
+Chile,Uruguay,3,37,15,10,45,1
+Argentina,Colombia,3,1,13,108,66,0
+Mexico,Costa Rica,1,12,28,62,-58,0
+Chile,Peru,3,37,29,10,-42,1
+Honduras,Mexico,1,50,12,-86,62,0
+Chile,Argentina,3,37,1,10,108,0
+United States,Honduras,1,14,50,57,-86,1
+Costa Rica,Jamaica,1,28,42,-58,-79,0
+Honduras,Panama,1,50,24,-86,-74,0
+Costa Rica,El Salvador,1,28,47,-58,-93,0
+United States,Panama,1,14,24,57,-74,0
+Jamaica,El Salvador,1,42,47,-79,-93,1
+Mexico,Costa Rica,1,12,28,62,-58,1
+Panama,Mexico,1,24,12,-74,62,0
+United States,Jamaica,1,14,42,57,-79,0
+United States,Panama,1,14,24,57,-74,0
+Jamaica,Mexico,1,42,12,-79,62,0
+China PR,South Korea,1,51,20,-47,44,0
+Japan,South Korea,1,16,20,97,44,0
+China PR,Japan,1,51,16,-47,97,0
+Netherlands,Iceland,1,7,43,47,-81,0
+United Arab Emirates,Malaysia,1,41,53,9,-76,1
+Germany,Poland,1,9,27,52,-33,1
+Portugal,France,1,6,3,77,72,0
+United States,Peru,1,14,29,57,-42,1
+Costa Rica,Brazil,1,28,5,-58,187,0
+Turkey,Netherlands,1,22,7,-20,47,1
+United States,Brazil,1,14,5,57,187,0
+England,Switzerland,1,4,17,42,4,1
+Malaysia,Saudi Arabia,1,53,39,-76,-20,0
+Mexico,Argentina,1,12,1,62,108,0
+Thailand,Iraq,1,52,38,-50,-42,0
+Colombia,Peru,1,13,29,66,-42,0
+Jordan,Iraq,1,40,38,-23,-42,1
+Bahrain,Uzbekistan,1,49,35,-54,-4,0
+Chile,Brazil,1,37,5,10,187,1
+Colombia,Peru,1,13,29,66,-42,1
+Jordan,Australia,1,40,21,-23,24,1
+Kuwait,South Korea,1,55,20,-57,44,0
+Oman,Iran,1,45,18,-31,45,0
+Portugal,Denmark,1,6,19,77,-9,1
+Qatar,China PR,1,34,51,-1,-47,1
+Saudi Arabia,United Arab Emirates,1,39,41,-20,9,1
+England,Estonia,1,4,54,42,-118,1
+United States,Mexico,1,14,12,57,62,0
+Denmark,France,1,19,3,-9,72,0
+Egypt,Zambia,1,25,46,1,-25,1
+Nigeria,Cameroon,1,30,33,-12,-23,1
+Estonia,Switzerland,1,54,17,-118,4,0
+Iran,Japan,1,18,16,45,97,0
+South Korea,Jamaica,1,20,42,44,-79,1
+Peru,Chile,1,29,37,-42,10,0
+Turkey,Iceland,1,22,43,-20,-81,1
+Uruguay,Colombia,1,15,13,45,66,1
+Chile,Colombia,1,37,13,10,66,0
+Argentina,Brazil,1,1,5,108,187,0
+Belgium,Italy,1,8,11,63,-2,1
+France,Germany,1,3,9,72,52,1
+Poland,Iceland,1,27,43,-33,-81,1
+Qatar,Turkey,1,34,22,-1,-20,0
+Spain,England,1,2,4,103,42,1
+Jamaica,Panama,1,42,24,-79,-74,0
+Mexico,El Salvador,1,12,47,62,-93,1
+Sweden,Denmark,1,23,19,-1,-9,1
+Brazil,Peru,1,5,29,187,-42,1
+Colombia,Argentina,1,13,1,66,108,0
+Denmark,Sweden,1,19,23,-9,-1,0
+England,France,1,4,3,42,72,1
+Honduras,Mexico,1,50,12,-86,62,0
+Malaysia,United Arab Emirates,1,53,41,-76,9,0
+Uruguay,Chile,1,15,37,45,10,1
+Panama,Costa Rica,1,24,28,-74,-58,0
+Sweden,Estonia,1,23,54,-1,-118,0
+Uganda,Cameroon,1,48,33,-31,-23,0
+United Arab Emirates,Iceland,1,41,43,9,-81,1
+Egypt,Jordan,1,25,40,1,-23,0
+United States,Iceland,1,14,43,57,-81,1
+Chile,Argentina,1,37,1,10,108,0
+Denmark,Iceland,1,19,43,-9,-81,1
+Iraq,Thailand,1,38,52,-42,-50,0
+Italy,Spain,1,11,2,-2,103,0
+Saudi Arabia,Malaysia,1,39,53,-20,-76,1
+Turkey,Sweden,1,22,23,-20,-1,1
+Brazil,Uruguay,1,5,15,187,45,0
+El Salvador,Honduras,1,47,50,-93,-86,0
+Jamaica,Costa Rica,1,42,28,-79,-58,0
+Netherlands,France,1,7,3,47,72,0
+Nigeria,Egypt,1,30,25,-12,1,0
+Cameroon,South Africa,1,33,36,-23,-7,0
+Germany,England,1,9,4,52,42,0
+Thailand,South Korea,1,52,20,-50,44,0
+Australia,Jordan,1,21,40,24,-23,1
+China PR,Qatar,1,51,34,-47,-1,1
+Costa Rica,Jamaica,1,28,42,-58,-79,1
+Egypt,Nigeria,1,25,30,1,-12,1
+England,Netherlands,1,4,7,42,47,0
+Germany,Italy,1,9,11,52,-2,1
+Honduras,El Salvador,1,50,47,-86,-93,1
+Iran,Oman,1,18,45,45,-31,1
+Portugal,Belgium,1,6,8,77,63,1
+South Africa,Cameroon,1,36,33,-7,-23,0
+United Arab Emirates,Saudi Arabia,1,41,39,9,-20,0
+Uruguay,Peru,1,15,29,45,-42,1
+Uzbekistan,Bahrain,1,35,49,-4,-54,1
+England,Turkey,1,4,22,42,-20,1
+England,Australia,1,4,21,42,24,1
+El Salvador,Peru,1,47,29,-93,-42,0
+Switzerland,Belgium,1,17,8,4,63,0
+France,Cameroon,1,3,33,72,-23,1
+Poland,Netherlands,1,27,7,-33,47,0
+Spain,South Korea,1,2,20,103,44,1
+England,Portugal,1,4,6,42,77,1
+United Arab Emirates,Jordan,1,41,40,9,-23,0
+United States,Colombia,3,14,13,57,66,0
+Mexico,Uruguay,3,12,15,62,45,1
+Thailand,Jordan,1,52,40,-50,-23,1
+Argentina,Chile,3,1,37,108,10,1
+United States,Costa Rica,3,14,28,57,-58,1
+Portugal,Estonia,1,6,54,77,-118,1
+Mexico,Jamaica,3,12,42,62,-79,1
+Argentina,Panama,3,1,24,108,-74,1
+Colombia,Costa Rica,3,13,28,66,-58,0
+Brazil,Peru,3,5,29,187,-42,0
+Turkey,Croatia,3,22,10,-20,-5,0
+Belgium,Italy,3,8,11,63,-2,0
+Uruguay,Jamaica,3,15,42,45,-79,1
+Chile,Panama,3,37,24,10,-74,1
+Portugal,Iceland,3,6,43,77,-81,0
+Germany,Poland,3,9,27,52,-33,0
+Italy,Sweden,3,11,23,-2,-1,1
+Peru,Colombia,3,29,13,-42,66,0
+Spain,Turkey,3,2,22,103,-20,1
+Mexico,Chile,3,12,37,62,10,0
+France,Switzerland,3,3,17,72,4,0
+Croatia,Spain,3,10,2,-5,103,1
+United States,Argentina,3,14,1,57,108,0
+Colombia,Chile,3,13,37,66,10,0
+Sweden,Belgium,3,23,8,-1,63,0
+Croatia,Portugal,3,10,6,-5,77,0
+Switzerland,Poland,3,17,27,4,-33,0
+United States,Colombia,3,14,13,57,66,0
+Argentina,Chile,3,1,37,108,10,0
+England,Iceland,3,4,43,42,-81,0
+Italy,Spain,3,11,2,-2,103,1
+Poland,Portugal,3,27,6,-33,77,0
+Germany,Italy,3,9,11,52,-2,0
+France,Iceland,3,3,43,72,-81,1
+France,Germany,3,3,9,72,52,1
+France,Portugal,3,3,6,72,77,0
+Uzbekistan,Iraq,1,35,38,-4,-42,1
+Qatar,Iraq,1,34,38,-1,-42,1
+Jordan,Qatar,1,40,34,-23,-1,0
+Argentina,Uruguay,1,1,15,108,45,1
+Australia,Iraq,1,21,38,24,-42,1
+Belgium,Spain,1,8,2,63,103,0
+Iran,Qatar,1,18,34,45,-1,1
+Italy,France,1,11,3,-2,72,0
+Japan,United Arab Emirates,1,16,41,97,9,0
+South Korea,China PR,1,20,51,44,-47,1
+Saudi Arabia,Thailand,1,39,52,-20,-50,1
+El Salvador,Mexico,1,47,12,-93,62,0
+Panama,Jamaica,1,24,42,-74,-79,1
+Bahrain,Jordan,1,49,40,-54,-23,0
+Croatia,Turkey,1,10,22,-5,-20,0
+Brazil,Colombia,1,5,13,187,66,1
+China PR,Iran,1,51,18,-47,45,0
+Costa Rica,Panama,1,28,24,-58,-74,1
+Iraq,Saudi Arabia,1,38,39,-42,-20,0
+Mexico,Honduras,1,12,50,62,-86,0
+Qatar,Uzbekistan,1,34,35,-1,-4,0
+South Africa,Egypt,1,36,25,-7,1,1
+Sweden,Netherlands,1,23,7,-1,47,0
+Switzerland,Portugal,1,17,6,4,77,1
+Thailand,Japan,1,52,16,-50,97,0
+United Arab Emirates,Australia,1,41,21,9,24,0
+Italy,Spain,1,11,2,-2,103,0
+Japan,Iraq,1,16,38,97,-42,1
+South Korea,Qatar,1,20,34,44,-1,1
+Peru,Argentina,1,29,1,-42,108,0
+Saudi Arabia,Australia,1,39,21,-20,24,0
+United Arab Emirates,Thailand,1,41,52,9,-50,1
+Uzbekistan,Iran,1,35,18,-4,45,0
+Ghana,Uganda,1,44,48,-12,-31,0
+Oman,Jordan,1,45,40,-31,-23,0
+Poland,Denmark,1,27,19,-33,-9,1
+Algeria,Cameroon,1,26,33,7,-23,0
+Iceland,Turkey,1,43,22,-81,-20,1
+Zambia,Nigeria,1,46,30,-25,-12,0
+Netherlands,France,1,7,3,47,72,0
+Australia,Japan,1,21,16,24,97,0
+Chile,Peru,1,37,29,10,-42,1
+Colombia,Uruguay,1,13,15,66,45,0
+Iran,South Korea,1,18,20,45,44,1
+Iraq,Thailand,1,38,52,-42,-50,1
+Mexico,Panama,1,12,24,62,-74,1
+Oman,Bahrain,1,45,49,-31,-54,0
+Saudi Arabia,United Arab Emirates,1,39,41,-20,9,1
+South Africa,Ghana,1,36,44,-7,-12,0
+Uzbekistan,China PR,1,35,51,-4,-47,1
+Jordan,Iraq,1,40,38,-23,-42,0
+Uganda,Zambia,1,48,46,-31,-25,0
+Netherlands,Belgium,1,7,8,47,63,0
+United Arab Emirates,Bahrain,1,41,49,9,-54,1
+Brazil,Argentina,1,5,1,187,108,1
+Colombia,Chile,1,13,37,66,10,0
+Uzbekistan,Jordan,1,35,40,-4,-23,1
+France,Sweden,1,3,23,72,-1,1
+Honduras,Panama,1,50,24,-86,-74,0
+Japan,Oman,1,16,45,97,-31,1
+United States,Mexico,1,14,12,57,62,0
+Cameroon,Zambia,1,33,46,-23,-25,0
+Croatia,Iceland,1,10,43,-5,-81,1
+Nigeria,Algeria,1,30,26,-12,7,1
+Belgium,Estonia,1,8,54,63,-118,1
+Egypt,Ghana,1,25,44,1,-12,1
+Argentina,Colombia,1,1,13,108,66,1
+Chile,Uruguay,1,37,15,10,45,1
+China PR,Qatar,1,51,34,-47,-1,0
+Costa Rica,United States,1,28,14,-58,57,1
+England,Spain,1,4,2,42,103,0
+France,Ivory Coast,1,3,31,72,0,0
+Italy,Germany,1,11,9,-2,52,0
+Japan,Saudi Arabia,1,16,39,97,-20,1
+South Korea,Uzbekistan,1,20,35,44,-4,1
+Panama,Mexico,1,24,12,-74,62,0
+Peru,Brazil,1,29,5,-42,187,0
+Thailand,Australia,1,52,21,-50,24,0
+United Arab Emirates,Iraq,1,41,38,9,-42,1
+Tunisia,Uganda,1,32,48,-6,-31,1
+Egypt,Tunisia,1,25,32,1,-6,1
+Ivory Coast,Sweden,1,31,23,0,-1,1
+China PR,Iceland,1,51,43,-47,-81,0
+Chile,Croatia,1,37,10,10,-5,0
+Ivory Coast,Uganda,1,31,48,0,-31,1
+China PR,Croatia,1,51,10,-47,-5,0
+El Salvador,Honduras,1,47,50,-93,-86,0
+Iceland,Chile,1,43,37,-81,10,0
+Ghana,Uganda,1,44,48,-12,-31,1
+Algeria,Tunisia,1,26,32,7,-6,0
+Egypt,Uganda,1,25,48,1,-31,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Egypt,Ghana,1,25,44,1,-12,1
+Brazil,Colombia,1,5,13,187,66,1
+Cameroon,Ghana,1,33,44,-23,-12,1
+Egypt,Cameroon,1,25,33,1,-23,0
+Mexico,Iceland,1,12,43,62,-81,1
+Iran,Iraq,1,18,38,45,-42,0
+Germany,England,1,9,4,52,42,1
+Argentina,Chile,1,1,37,108,10,1
+China PR,South Korea,1,51,20,-47,44,1
+Iraq,Australia,1,38,21,-42,24,0
+Qatar,Iran,1,34,18,-1,45,0
+Thailand,Saudi Arabia,1,52,39,-50,-20,0
+United Arab Emirates,Japan,1,41,16,9,97,0
+Uruguay,Brazil,1,15,5,45,187,0
+Mexico,Costa Rica,1,12,28,62,-58,1
+Tunisia,Cameroon,1,32,33,-6,-23,0
+United States,Honduras,1,14,50,57,-86,1
+Australia,United Arab Emirates,1,21,41,24,9,1
+Estonia,Croatia,1,54,10,-118,-5,1
+France,Spain,1,3,2,72,103,0
+Honduras,Costa Rica,1,50,28,-86,-58,0
+Iran,China PR,1,18,51,45,-47,1
+Japan,Thailand,1,16,52,97,-50,1
+Netherlands,Italy,1,7,11,47,-2,0
+Panama,United States,1,24,14,-74,57,0
+Peru,Uruguay,1,29,15,-42,45,1
+Portugal,Sweden,1,6,23,77,-1,0
+Saudi Arabia,Iraq,1,39,38,-20,-42,1
+Uzbekistan,Qatar,1,35,34,-4,-1,1
+El Salvador,Honduras,1,47,50,-93,-86,0
+Mexico,Croatia,1,12,10,62,-5,0
+Iraq,Jordan,1,38,40,-42,-23,1
+Netherlands,Ivory Coast,1,7,31,47,0,1
+Denmark,Germany,1,19,9,-9,52,0
+Uzbekistan,Thailand,1,35,52,-4,-50,1
+Iraq,South Korea,1,38,20,-42,44,0
+Italy,Uruguay,1,11,15,-2,45,1
+Spain,Colombia,1,2,13,103,66,0
+Australia,Saudi Arabia,1,21,39,24,-20,1
+Costa Rica,Panama,1,28,24,-58,-74,0
+Mexico,Honduras,1,12,50,62,-86,1
+Argentina,Brazil,1,1,5,108,187,1
+Estonia,Belgium,1,54,8,-118,63,0
+Sweden,France,1,23,3,-1,72,1
+Nigeria,South Africa,1,30,36,-12,-7,0
+Iceland,Croatia,1,43,10,-81,-5,1
+Mexico,United States,1,12,14,62,57,0
+Tunisia,Egypt,1,32,25,-6,1,1
+Iran,Uzbekistan,1,18,35,45,-4,1
+Australia,Brazil,1,21,5,24,187,0
+Cameroon,Colombia,1,33,13,-23,66,0
+France,England,1,3,4,72,42,1
+Iraq,Japan,1,38,16,-42,97,0
+Panama,Honduras,1,24,50,-74,-86,0
+Qatar,South Korea,1,34,20,-1,44,1
+South Africa,Zambia,1,36,46,-7,-25,0
+Thailand,United Arab Emirates,1,52,41,-50,9,0
+Peru,Jamaica,1,29,42,-42,-79,1
+Cameroon,Chile,1,33,37,-23,10,0
+Portugal,Mexico,1,6,12,77,62,0
+Australia,Germany,1,21,9,24,52,0
+Cameroon,Australia,1,33,21,-23,24,0
+Germany,Chile,1,9,37,52,10,0
+Chile,Australia,1,37,21,10,24,0
+Germany,Cameroon,1,9,33,52,-23,1
+Portugal,Chile,1,6,37,77,10,0
+Germany,Mexico,1,9,12,52,62,1
+United States,Ghana,1,14,44,57,-12,1
+Chile,Germany,1,37,9,10,52,0
+Portugal,Mexico,1,6,12,77,62,1
+Honduras,Costa Rica,1,50,28,-86,-58,0
+United States,Panama,1,14,24,57,-74,0
+Mexico,El Salvador,1,12,47,62,-93,1
+Mexico,Jamaica,1,12,42,62,-79,0
+Jamaica,El Salvador,1,42,47,-79,-93,0
+Costa Rica,Panama,1,28,24,-58,-74,1
+United States,El Salvador,1,14,47,57,-93,1
+Mexico,Honduras,1,12,50,62,-86,1
+United States,Costa Rica,1,14,28,57,-58,1
+Mexico,Jamaica,1,12,42,62,-79,0
+United States,Jamaica,1,14,42,57,-79,1
+Bahrain,Jordan,1,49,40,-54,-23,0
+United Arab Emirates,Saudi Arabia,1,41,39,9,-20,1
+China PR,Uzbekistan,1,51,35,-47,-4,1
+France,Netherlands,1,3,7,72,47,1
+Japan,Australia,1,16,21,97,24,1
+South Korea,Iran,1,20,18,44,45,0
+Thailand,Iraq,1,52,38,-50,-42,0
+Uganda,Egypt,1,48,25,-31,1,1
+Uruguay,Argentina,1,15,1,45,108,0
+Denmark,Poland,1,19,27,-9,-33,1
+Mexico,Panama,1,12,24,62,-74,1
+Nigeria,Cameroon,1,30,33,-12,-23,1
+United States,Costa Rica,1,14,28,57,-58,0
+Spain,Italy,1,2,11,103,-2,1
+Zambia,Algeria,1,46,26,-25,7,1
+Cameroon,Nigeria,1,33,30,-23,-12,0
+Algeria,Zambia,1,26,46,7,-25,0
+Australia,Thailand,1,21,52,24,-50,1
+Colombia,Brazil,1,13,5,66,187,0
+Costa Rica,Mexico,1,28,12,-58,62,0
+Egypt,Uganda,1,25,48,1,-31,1
+Honduras,United States,1,50,14,-86,57,0
+Iraq,United Arab Emirates,1,38,41,-42,9,1
+Qatar,China PR,1,34,51,-1,-47,0
+Saudi Arabia,Japan,1,39,16,-20,97,1
+Turkey,Croatia,1,22,10,-20,-5,1
+Uzbekistan,South Korea,1,35,20,-4,44,0
+Argentina,Peru,1,1,29,108,-42,0
+Turkey,Iceland,1,22,43,-20,-81,0
+United States,Panama,1,14,24,57,-74,1
+Cameroon,Algeria,1,33,26,-23,7,1
+Costa Rica,Honduras,1,28,50,-58,-86,0
+Nigeria,Zambia,1,30,46,-12,-25,1
+Saudi Arabia,Jamaica,1,39,42,-20,-79,1
+Uganda,Ghana,1,48,44,-31,-12,0
+Brazil,Chile,1,5,37,187,10,1
+Honduras,Mexico,1,50,12,-86,62,1
+Netherlands,Sweden,1,7,23,47,-1,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Peru,Colombia,1,29,13,-42,66,0
+Portugal,Switzerland,1,6,17,77,4,1
+Saudi Arabia,Ghana,1,39,44,-20,-12,0
+Iran,Panama,1,18,24,45,-74,1
+Algeria,Nigeria,1,26,30,7,-12,1
+Belgium,Mexico,1,8,12,63,62,0
+England,Germany,1,4,9,42,52,0
+Honduras,Australia,1,50,21,-86,24,0
+Japan,Brazil,1,16,5,97,187,0
+South Korea,Colombia,1,20,13,44,66,1
+Poland,Uruguay,1,27,15,-33,45,0
+Portugal,Saudi Arabia,1,6,39,77,-20,1
+Sweden,Italy,1,23,11,-1,-2,1
+Spain,Costa Rica,1,2,28,103,-58,1
+Zambia,Cameroon,1,46,33,-25,-23,0
+Ghana,Egypt,1,44,25,-12,1,0
+Italy,Sweden,1,11,23,-2,-1,0
+Poland,Mexico,1,27,12,-33,62,0
+Argentina,Nigeria,1,1,30,108,-12,0
+Belgium,Japan,1,8,16,63,97,1
+China PR,Colombia,1,51,13,-47,66,0
+England,Brazil,1,4,5,42,187,0
+Germany,France,1,9,3,52,72,0
+Portugal,United States,1,6,14,77,57,0
+Qatar,Iceland,1,34,43,-1,-81,0
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,1
+Australia,Honduras,1,21,50,24,-86,1
+South Korea,China PR,1,20,51,44,-47,0
+Japan,China PR,1,16,51,97,-47,1
+Japan,South Korea,1,16,20,97,44,0
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Kuwait,Saudi Arabia,1,55,39,-57,-20,0
+Oman,United Arab Emirates,1,45,41,-31,9,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+Kuwait,Oman,1,55,45,-57,-31,0
+United Arab Emirates,Saudi Arabia,1,41,39,9,-20,0
+Iraq,Qatar,1,38,34,-42,-1,1
+Kuwait,United Arab Emirates,1,55,41,-57,9,0
+Saudi Arabia,Oman,1,39,45,-20,-31,0
+Qatar,Bahrain,1,34,49,-1,-54,0
+Iraq,United Arab Emirates,1,38,41,-42,9,0
+Oman,Bahrain,1,45,49,-31,-54,1
+Oman,United Arab Emirates,1,45,41,-31,9,0
+Estonia,Sweden,1,54,23,-118,-1,0
+Denmark,Sweden,1,19,23,-9,-1,0
+Jamaica,South Korea,1,42,20,-79,44,0
+Iraq,Saudi Arabia,1,38,39,-42,-20,1
+Iraq,Qatar,1,38,34,-42,-1,0
+Jordan,Kuwait,1,40,55,-23,-57,1
+Denmark,Panama,1,19,24,-9,-74,1
+France,Colombia,1,3,13,72,66,0
+Germany,Spain,1,9,2,52,103,0
+Italy,Argentina,1,11,1,-2,108,0
+Mexico,Iceland,1,12,43,62,-81,1
+Netherlands,England,1,7,4,47,42,0
+Peru,Croatia,1,29,10,-42,-5,1
+Poland,Nigeria,1,27,30,-33,-12,0
+Portugal,Egypt,1,6,25,77,1,1
+Tunisia,Iran,1,32,18,-6,45,1
+Sweden,Chile,1,23,37,-1,10,0
+Zambia,South Africa,1,46,36,-25,-7,0
+Kuwait,Cameroon,1,55,33,-57,-23,0
+Portugal,Netherlands,1,6,7,77,47,0
+Algeria,Iran,1,26,18,7,45,0
+Australia,Colombia,1,21,13,24,66,0
+Belgium,Saudi Arabia,1,8,39,63,-20,1
+Denmark,Chile,1,19,37,-9,10,0
+England,Italy,1,4,11,42,-2,0
+Germany,Brazil,1,9,5,52,187,0
+Mexico,Croatia,1,12,10,62,-5,0
+Peru,Iceland,1,29,43,-42,-81,1
+Poland,South Korea,1,27,20,-33,44,1
+Spain,Argentina,1,2,1,103,108,1
+Switzerland,Panama,1,17,24,4,-74,1
+Tunisia,Costa Rica,1,32,28,-6,-58,1
+Algeria,Saudi Arabia,1,26,39,7,-20,0
+Iran,Uzbekistan,1,18,35,45,-4,1
+Kuwait,Egypt,1,55,25,-57,1,0
+Portugal,Tunisia,1,6,32,77,-6,0
+Italy,Saudi Arabia,1,11,39,-2,-20,1
+Turkey,Iran,1,22,18,-20,45,1
+South Korea,Honduras,1,20,50,44,-86,1
+Japan,Ghana,1,16,44,97,-12,0
+France,Italy,1,3,11,72,-2,1
+Turkey,Tunisia,1,22,32,-20,-6,0
+Colombia,Egypt,1,13,25,66,1,0
+El Salvador,Honduras,1,47,50,-93,-86,1
+Thailand,China PR,1,52,51,-50,-47,0
+England,Nigeria,1,4,30,42,-12,1
+Sweden,Denmark,1,23,19,-1,-9,0
+Belgium,Portugal,1,8,6,63,77,0
+Saudi Arabia,Peru,1,39,29,-20,-42,0
+Spain,Switzerland,1,2,17,103,4,0
+Croatia,Brazil,1,10,5,-5,187,0
+Italy,Netherlands,1,11,7,-2,47,0
+Belgium,Egypt,1,8,25,63,1,1
+England,Costa Rica,1,4,28,42,-58,1
+Uruguay,Uzbekistan,1,15,35,45,-4,1
+Portugal,Algeria,1,6,26,77,7,1
+Iceland,Ghana,1,43,44,-81,-12,0
+Germany,Saudi Arabia,1,9,39,52,-20,1
+Switzerland,Japan,1,17,16,4,97,1
+Poland,Chile,1,27,37,-33,10,0
+Denmark,Mexico,1,19,12,-9,62,1
+Sweden,Peru,1,23,29,-1,-42,0
+Tunisia,Spain,1,32,2,-6,103,0
+France,United States,1,3,14,72,57,0
+Belgium,Costa Rica,1,8,28,63,-58,1
+Egypt,Uruguay,3,25,15,1,45,0
+Portugal,Spain,3,6,2,77,103,0
+France,Australia,3,3,21,72,24,1
+Argentina,Iceland,3,1,43,108,-81,0
+Peru,Denmark,3,29,19,-42,-9,0
+Croatia,Nigeria,3,10,30,-5,-12,1
+Germany,Mexico,3,9,12,52,62,0
+Brazil,Switzerland,3,5,17,187,4,0
+Sweden,South Korea,3,23,20,-1,44,1
+Belgium,Panama,3,8,24,63,-74,1
+Tunisia,England,3,32,4,-6,42,0
+Colombia,Japan,3,13,16,66,97,0
+Uruguay,Saudi Arabia,3,15,39,45,-20,1
+Iran,Spain,3,18,2,45,103,0
+Denmark,Australia,3,19,21,-9,24,0
+France,Peru,3,3,29,72,-42,1
+Argentina,Croatia,3,1,10,108,-5,0
+Brazil,Costa Rica,3,5,28,187,-58,1
+Nigeria,Iceland,3,30,43,-12,-81,1
+Belgium,Tunisia,3,8,32,63,-6,1
+South Korea,Mexico,3,20,12,44,62,0
+Germany,Sweden,3,9,23,52,-1,1
+England,Panama,3,4,24,42,-74,1
+Poland,Colombia,3,27,13,-33,66,0
+Saudi Arabia,Egypt,3,39,25,-20,1,1
+Iran,Portugal,3,18,6,45,77,0
+Australia,Peru,3,21,29,24,-42,0
+Denmark,France,3,19,3,-9,72,0
+Nigeria,Argentina,3,30,1,-12,108,0
+Iceland,Croatia,3,43,10,-81,-5,0
+South Korea,Germany,3,20,9,44,52,1
+Mexico,Sweden,3,12,23,62,-1,0
+Switzerland,Costa Rica,3,17,28,4,-58,0
+Japan,Poland,3,16,27,97,-33,0
+Panama,Tunisia,3,24,32,-74,-6,0
+England,Belgium,3,4,8,42,63,0
+France,Argentina,3,3,1,72,108,1
+Uruguay,Portugal,3,15,6,45,77,1
+Croatia,Denmark,3,10,19,-5,-9,0
+Brazil,Mexico,3,5,12,187,62,1
+Belgium,Japan,3,8,16,63,97,1
+Sweden,Switzerland,3,23,17,-1,4,1
+Colombia,England,3,13,4,66,42,0
+Uruguay,France,3,15,3,45,72,0
+Brazil,Belgium,3,5,8,187,63,0
+Sweden,England,3,23,4,-1,42,0
+France,Belgium,3,3,8,72,63,1
+Croatia,England,3,10,4,-5,42,1
+Belgium,England,3,8,4,63,42,1
+France,Croatia,3,3,10,72,-5,1
+Germany,France,2,9,3,52,72,0
+Netherlands,Peru,1,7,29,47,-42,1
+Portugal,Croatia,1,6,10,77,-5,0
+Italy,Poland,2,11,27,-2,-33,0
+South Korea,Costa Rica,1,20,28,44,-58,1
+Mexico,Uruguay,1,12,15,62,45,0
+Qatar,China PR,1,34,51,-1,-47,1
+United States,Brazil,1,14,5,57,187,0
+Switzerland,Iceland,2,17,43,4,-81,1
+England,Spain,2,4,2,42,103,0
+France,Netherlands,2,3,7,72,47,1
+Germany,Peru,1,9,29,52,-42,1
+Portugal,Italy,2,6,11,77,-2,1
+Sweden,Turkey,2,23,22,-1,-20,0
+Bahrain,China PR,1,49,51,-54,-47,0
+Kuwait,Iraq,1,55,38,-57,-42,0
+Iceland,Belgium,2,43,8,-81,63,0
+Spain,Croatia,2,2,10,103,-5,1
+Colombia,Argentina,1,13,1,66,108,0
+England,Switzerland,1,4,17,42,4,1
+Japan,Costa Rica,1,16,28,97,-58,1
+Jordan,Oman,1,40,45,-23,-31,0
+South Korea,Chile,1,20,37,44,10,0
+United States,Mexico,1,14,12,57,62,1
+Uzbekistan,Iran,1,35,18,-4,45,0
+Brazil,El Salvador,1,5,47,187,-93,1
+Poland,Portugal,2,27,6,-33,77,0
+Argentina,Iraq,1,1,38,108,-42,1
+France,Iceland,1,3,43,72,-81,0
+Honduras,United Arab Emirates,1,50,41,-86,9,0
+Mexico,Costa Rica,1,12,28,62,-58,1
+United States,Colombia,1,14,13,57,66,0
+Belgium,Switzerland,2,8,17,63,4,1
+Croatia,England,2,10,4,-5,42,0
+Japan,Panama,1,16,24,97,-74,1
+South Korea,Uruguay,1,20,15,44,45,1
+Peru,Chile,1,29,37,-42,10,1
+Saudi Arabia,Brazil,1,39,5,-20,187,0
+Netherlands,Germany,2,7,9,47,52,1
+Poland,Italy,2,27,11,-33,-2,0
+Iceland,Switzerland,2,43,17,-81,4,0
+Spain,England,2,2,4,103,42,0
+Croatia,Jordan,1,10,40,-5,-23,1
+Kuwait,Australia,1,55,21,-57,24,0
+Saudi Arabia,Iraq,1,39,38,-20,-42,0
+France,Germany,2,3,9,72,52,1
+Belgium,Netherlands,1,8,7,63,47,0
+Colombia,Costa Rica,1,13,28,66,-58,1
+Japan,Uruguay,1,16,15,97,45,1
+South Korea,Panama,1,20,24,44,-74,0
+Mexico,Chile,1,12,37,62,10,0
+United States,Peru,1,14,29,57,-42,0
+Uzbekistan,Qatar,1,35,34,-4,-1,1
+Argentina,Brazil,1,1,5,108,187,0
+Switzerland,Qatar,1,17,34,4,-1,0
+Belgium,Iceland,2,8,43,63,-81,1
+Croatia,Spain,2,10,2,-5,103,1
+England,United States,1,4,14,42,57,1
+Netherlands,France,2,7,3,47,72,1
+Argentina,Mexico,1,1,12,108,62,1
+Brazil,Uruguay,1,5,15,187,45,1
+Chile,Costa Rica,1,37,28,10,-58,0
+Honduras,Panama,1,50,24,-86,-74,1
+Egypt,Tunisia,1,25,32,1,-6,1
+Italy,Portugal,2,11,6,-2,77,0
+Turkey,Sweden,2,22,23,-20,-1,0
+Australia,South Korea,1,21,20,24,44,0
+South Africa,Nigeria,1,36,30,-7,-12,0
+Switzerland,Belgium,2,17,8,4,63,1
+England,Croatia,2,4,10,42,-5,1
+Germany,Netherlands,2,9,7,52,47,0
+Iceland,Qatar,1,43,34,-81,-1,0
+Oman,Bahrain,1,45,49,-31,-54,1
+Portugal,Poland,2,6,27,77,-33,0
+Argentina,Mexico,1,1,12,108,62,1
+Brazil,Cameroon,1,5,33,187,-23,1
+Chile,Honduras,1,37,50,10,-86,1
+France,Uruguay,1,3,15,72,45,1
+Italy,United States,1,11,14,-2,57,1
+Jordan,Saudi Arabia,1,40,39,-23,-20,0
+South Korea,Uzbekistan,1,20,35,44,-4,1
+Nigeria,Uganda,1,30,48,-12,-31,0
+Peru,Costa Rica,1,29,28,-42,-58,0
+Malaysia,Thailand,1,53,52,-76,-50,0
+Thailand,Malaysia,1,52,53,-50,-76,0
+Qatar,Jordan,1,34,40,-1,-23,1
+Iraq,China PR,1,38,51,-42,-47,1
+Qatar,Algeria,1,34,26,-1,7,0
+China PR,Jordan,1,51,40,-47,-23,0
+United Arab Emirates,Kuwait,1,41,55,9,-57,0
+Australia,Oman,1,21,45,24,-31,1
+South Korea,Saudi Arabia,1,20,39,44,-20,0
+Qatar,Iran,1,34,18,-1,45,0
+Oman,Thailand,1,45,52,-31,-50,1
+United Arab Emirates,Bahrain,1,41,49,9,-54,0
+Australia,Jordan,1,21,40,24,-23,0
+Uzbekistan,Oman,1,35,45,-4,-31,1
+Bahrain,Thailand,1,49,52,-54,-50,0
+Iceland,Sweden,1,43,23,-81,-1,0
+Oman,Japan,1,45,16,-31,97,0
+United Arab Emirates,Thailand,1,41,52,9,-50,0
+Estonia,Iceland,1,54,43,-118,-81,0
+South Korea,China PR,1,20,51,44,-47,1
+Iran,Iraq,1,18,38,45,-42,0
+Saudi Arabia,Qatar,1,39,34,-20,-1,0
+Japan,Uzbekistan,1,16,35,97,-4,1
+Iran,Oman,1,18,45,45,-31,1
+Thailand,China PR,1,52,51,-50,-47,0
+Australia,Uzbekistan,1,21,35,24,-4,0
+Japan,Saudi Arabia,1,16,39,97,-20,1
+South Korea,Bahrain,1,20,49,44,-54,1
+Qatar,Iraq,1,34,38,-1,-42,1
+China PR,Iran,1,51,18,-47,45,0
+South Korea,Qatar,1,20,34,44,-1,0
+United Arab Emirates,Australia,1,41,21,9,24,1
+United States,Panama,1,14,24,57,-74,1
+Iran,Japan,1,18,16,45,97,0
+United Arab Emirates,Qatar,1,41,34,9,-1,0
+Japan,Qatar,1,16,34,97,-1,0
+United States,Costa Rica,1,14,28,57,-58,1
+United Arab Emirates,Saudi Arabia,1,41,39,9,-20,1
+Japan,Colombia,1,16,13,97,66,0
+Mexico,Chile,1,12,37,62,10,1
+Brazil,Panama,1,5,24,187,-74,0
+Netherlands,Germany,1,7,9,47,52,0
+El Salvador,Jamaica,1,47,42,-93,-79,1
+France,Iceland,1,3,43,72,-81,1
+Algeria,Tunisia,1,26,32,7,-6,1
+Costa Rica,Jamaica,1,28,42,-58,-79,1
+South Korea,Colombia,1,20,13,44,66,1
+Nigeria,Egypt,1,30,25,-12,1,1
+Peru,El Salvador,1,29,47,-42,-93,0
+United States,Chile,1,14,37,57,10,0
+Switzerland,Denmark,1,17,19,4,-9,0
+Turkey,Uzbekistan,1,22,35,-20,-4,1
+Colombia,Panama,1,13,24,66,-74,1
+South Africa,Uganda,1,36,48,-7,-31,0
+Brazil,Qatar,1,5,34,187,-1,1
+Peru,Costa Rica,1,29,28,-42,-58,1
+United States,Jamaica,1,14,42,57,-79,0
+Portugal,Switzerland,2,6,17,77,4,1
+England,Netherlands,2,4,7,42,47,0
+South Korea,Australia,1,20,21,44,24,1
+Tunisia,Iraq,1,32,38,-6,-42,1
+Uruguay,Panama,1,15,24,45,-74,1
+Turkey,France,1,22,3,-20,72,1
+Brazil,Honduras,1,5,50,187,-86,1
+Cameroon,Zambia,1,33,46,-23,-25,1
+Japan,El Salvador,1,16,47,97,-93,1
+Peru,Colombia,1,29,13,-42,66,0
+Switzerland,England,2,17,4,4,42,0
+Portugal,Netherlands,2,6,7,77,47,1
+Spain,Sweden,1,2,23,103,-1,1
+Germany,Estonia,1,9,54,52,-118,1
+Iceland,Turkey,1,43,22,-81,-20,1
+Croatia,Tunisia,1,10,32,-5,-6,0
+South Korea,Iran,1,20,18,44,45,0
+Argentina,Colombia,3,1,13,108,66,0
+Ghana,South Africa,1,44,36,-12,-7,0
+Ivory Coast,Uganda,1,31,48,0,-31,0
+Japan,Chile,3,16,37,97,10,0
+Jamaica,Honduras,1,42,50,-79,-86,1
+Colombia,Qatar,3,13,34,66,-1,1
+Ivory Coast,Zambia,1,31,46,0,-25,1
+Uruguay,Japan,3,15,16,45,97,0
+El Salvador,Jamaica,1,47,42,-93,-79,0
+Brazil,Peru,3,5,29,187,-42,1
+Qatar,Argentina,3,34,1,-1,108,0
+Ivory Coast,South Africa,1,31,36,0,-7,1
+Chile,Uruguay,3,37,15,10,45,0
+Honduras,El Salvador,1,50,47,-86,-93,1
+United States,Panama,1,14,24,57,-74,1
+Colombia,Chile,3,13,37,66,10,0
+Cameroon,Ghana,1,33,44,-23,-12,0
+Uruguay,Peru,3,15,29,45,-42,0
+Mexico,Costa Rica,1,12,28,62,-58,0
+Egypt,Uganda,1,25,48,1,-31,1
+Jamaica,Panama,1,42,24,-79,-74,1
+Brazil,Argentina,3,5,1,187,108,1
+Chile,Peru,3,37,29,10,-42,0
+United States,Jamaica,1,14,42,57,-79,1
+Egypt,South Africa,1,25,36,1,-7,0
+Nigeria,Cameroon,1,30,33,-12,-23,1
+Argentina,Chile,3,1,37,108,10,1
+Brazil,Peru,3,5,29,187,-42,1
+United States,Mexico,1,14,12,57,62,0
+Ghana,Tunisia,1,44,32,-12,-6,0
+Nigeria,South Africa,1,30,36,-12,-7,1
+Ivory Coast,Algeria,1,31,26,0,7,0
+Algeria,Nigeria,1,26,30,7,-12,1
+Tunisia,Nigeria,1,32,30,-6,-12,0
+Jordan,Bahrain,1,40,49,-23,-54,0
+Saudi Arabia,Kuwait,1,39,55,-20,-57,0
+Bahrain,Saudi Arabia,1,49,39,-54,-20,0
+Kuwait,Jordan,1,55,40,-57,-23,0
+Jordan,Saudi Arabia,1,40,39,-23,-20,1
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Iraq,Bahrain,1,38,49,-42,-54,0
+Malaysia,Jordan,1,53,40,-76,-23,0
+Argentina,Chile,1,1,37,108,10,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+Brazil,Colombia,1,5,13,187,66,0
+Costa Rica,Uruguay,1,28,15,-58,45,0
+United States,Mexico,1,14,12,57,62,0
+Germany,Netherlands,1,9,7,52,47,0
+Iraq,Uzbekistan,1,38,35,-42,-4,0
+Estonia,Netherlands,1,54,7,-118,47,0
+Argentina,Mexico,1,1,12,108,62,1
+Brazil,Peru,1,5,29,187,-42,0
+Honduras,Chile,1,50,37,-86,10,1
+Ivory Coast,Tunisia,1,31,32,0,-6,1
+United States,Uruguay,1,14,15,57,45,0
+Kuwait,Australia,1,55,21,-57,24,0
+Malaysia,United Arab Emirates,1,53,41,-76,9,0
+Germany,Argentina,1,9,1,52,108,0
+Jordan,Kuwait,1,40,55,-23,-57,0
+Iceland,France,1,43,3,-81,72,0
+Uruguay,Peru,1,15,29,45,-42,1
+Denmark,Switzerland,1,19,17,-9,4,1
+Colombia,Chile,1,13,37,66,10,0
+Tunisia,Cameroon,1,32,33,-6,-23,0
+Estonia,Germany,1,54,9,-118,52,0
+Brazil,Nigeria,1,5,30,187,-12,0
+France,Turkey,1,3,22,72,-20,0
+Sweden,Spain,1,23,2,-1,103,0
+Algeria,Colombia,1,26,13,7,66,1
+Peru,Uruguay,1,29,15,-42,45,0
+Mexico,Panama,1,12,24,62,-74,1
+Bahrain,Iran,1,49,18,-54,45,1
+Qatar,Oman,1,34,45,-1,-31,1
+Thailand,United Arab Emirates,1,52,41,-50,9,1
+Ghana,South Africa,1,44,36,-12,-7,1
+Algeria,Zambia,1,26,46,7,-25,1
+Turkey,Iceland,1,22,43,-20,-81,0
+Jordan,Australia,1,40,21,-23,24,0
+Iraq,Iran,1,38,18,-42,45,1
+Uzbekistan,Saudi Arabia,1,35,39,-4,-20,0
+Malaysia,Thailand,1,53,52,-76,-50,1
+Brazil,Argentina,1,5,1,187,108,0
+Panama,Mexico,1,24,12,-74,62,0
+Colombia,Peru,1,13,29,66,-42,1
+Argentina,Uruguay,1,1,15,108,45,0
+Netherlands,Estonia,1,7,54,47,-118,1
+Brazil,South Korea,1,5,20,187,44,1
+Iraq,Bahrain,1,38,49,-42,-54,0
+Qatar,Iraq,1,34,38,-1,-42,0
+Oman,Bahrain,1,45,49,-31,-54,0
+Saudi Arabia,Kuwait,1,39,55,-20,-57,0
+United Arab Emirates,Iraq,1,41,38,9,-42,0
+Kuwait,Oman,1,55,45,-57,-31,0
+Bahrain,Saudi Arabia,1,49,39,-54,-20,0
+Qatar,United Arab Emirates,1,34,41,-1,9,1
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Oman,Saudi Arabia,1,45,39,-31,-20,0
+Iraq,Bahrain,1,38,49,-42,-54,0
+Qatar,Saudi Arabia,1,34,39,-1,-20,0
+Bahrain,Saudi Arabia,1,49,39,-54,-20,1
+China PR,Japan,1,51,16,-47,97,0
+South Korea,China PR,1,20,51,44,-47,1
+South Korea,Japan,1,20,16,44,97,1
+El Salvador,Iceland,1,47,43,-93,-81,0
+United States,Costa Rica,1,14,28,57,-58,1
+Germany,Spain,2,9,2,52,103,0
+Netherlands,Poland,2,7,27,47,-33,1
+Iceland,England,2,43,4,-81,42,0
+Denmark,Belgium,2,19,8,-9,63,0
+Portugal,Croatia,2,6,10,77,-5,1
+Sweden,France,2,23,3,-1,72,0
+Switzerland,Germany,2,17,9,4,52,0
+Netherlands,Italy,2,7,11,47,-2,0
+Belgium,Iceland,2,8,43,63,-81,1
+Denmark,England,2,19,4,-9,42,0
+France,Croatia,2,3,10,72,-5,1
+Sweden,Portugal,2,23,6,-1,77,0
+Germany,Turkey,1,9,22,52,-20,0
+Netherlands,Mexico,1,7,12,47,62,0
+Portugal,Spain,1,6,2,77,103,0
+Switzerland,Croatia,1,17,10,4,-5,0
+Belgium,Ivory Coast,1,8,31,63,0,0
+Uzbekistan,Iran,1,35,18,-4,45,0
+Uruguay,Chile,1,15,37,45,10,1
+Japan,Cameroon,1,16,33,97,-23,0
+Nigeria,Algeria,1,30,26,-12,7,0
+Spain,Switzerland,2,2,17,103,4,1
+Costa Rica,Panama,1,28,24,-58,-74,0
+Poland,Italy,2,27,11,-33,-2,0
+England,Belgium,2,4,8,42,63,1
+Iceland,Denmark,2,43,19,-81,-9,0
+Croatia,Sweden,2,10,23,-5,-1,1
+France,Portugal,2,3,6,72,77,0
+South Africa,Zambia,1,36,46,-7,-25,0
+Ghana,Qatar,1,44,34,-12,-1,1
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,0
+Germany,Switzerland,2,9,17,52,4,0
+Costa Rica,Panama,1,28,24,-58,-74,0
+Japan,Ivory Coast,1,16,31,97,0,1
+Mexico,Algeria,1,12,26,62,7,0
+Nigeria,Tunisia,1,30,32,-12,-6,0
+Peru,Brazil,1,29,5,-42,187,0
+Chile,Colombia,1,37,13,10,66,0
+Italy,Netherlands,2,11,7,-2,47,0
+Iceland,Belgium,2,43,8,-81,63,0
+England,Denmark,2,4,19,42,-9,0
+Portugal,Sweden,2,6,23,77,-1,1
+Croatia,France,2,10,3,-5,72,0
+Belgium,Switzerland,1,8,17,63,4,1
+Denmark,Sweden,1,19,23,-9,-1,1
+Italy,Estonia,1,11,54,-2,-118,1
+Netherlands,Spain,1,7,2,47,103,0
+Turkey,Croatia,1,22,10,-20,-5,0
+Jordan,Iraq,1,40,38,-23,-42,0
+Costa Rica,Qatar,1,28,34,-58,-1,0
+Japan,Panama,1,16,24,97,-74,1
+Colombia,Uruguay,1,13,15,66,45,0
+Chile,Peru,1,37,29,10,-42,1
+Portugal,France,2,6,3,77,72,0
+Sweden,Croatia,2,23,10,-1,-5,1
+Switzerland,Spain,2,17,2,4,103,0
+Mexico,South Korea,1,12,20,62,44,1
+Saudi Arabia,Jamaica,1,39,42,-20,-79,1
+Italy,Poland,2,11,27,-2,-33,1
+Belgium,England,2,8,4,63,42,1
+Denmark,Iceland,2,19,43,-9,-81,1
+United Arab Emirates,Bahrain,1,41,49,9,-54,0
+United States,Panama,1,14,24,57,-74,1
+Croatia,Portugal,2,10,6,-5,77,0
+France,Sweden,2,3,23,72,-1,1
+Spain,Germany,2,2,9,103,52,1
+Japan,Mexico,1,16,12,97,62,0
+South Korea,Qatar,1,20,34,44,-1,1
+Saudi Arabia,Jamaica,1,39,42,-20,-79,0
+Uzbekistan,Iraq,1,35,38,-4,-42,0
+Peru,Argentina,1,29,1,-42,108,0
+Uruguay,Brazil,1,15,5,45,187,0
+Poland,Netherlands,2,27,7,-33,47,0
+England,Iceland,2,4,43,42,-81,1
+Belgium,Denmark,2,8,19,63,-9,1
+United States,El Salvador,1,14,47,57,-93,1
+United Arab Emirates,Iraq,1,41,38,9,-42,0
+Iraq,Kuwait,1,38,55,-42,-57,1
+Jordan,Uzbekistan,1,40,35,-23,-4,0
+Oman,Jordan,1,45,40,-31,-23,0
+Turkey,Netherlands,1,22,7,-20,47,1
+Japan,South Korea,1,16,20,97,44,1
+Saudi Arabia,Kuwait,1,39,55,-20,-57,1
+United States,Jamaica,1,14,42,57,-79,1
+Germany,Iceland,1,9,43,52,-81,1
+South Africa,Ghana,1,36,44,-7,-12,0
+Zambia,Algeria,1,46,26,-25,7,0
+Uzbekistan,Iraq,1,35,38,-4,-42,0
+Bahrain,Jordan,1,49,40,-54,-23,0
+Costa Rica,Mexico,1,28,12,-58,62,0
+Sweden,Estonia,1,23,54,-1,-118,1
+England,Poland,1,4,27,42,-33,1
+United Arab Emirates,Jordan,1,41,40,9,-23,1
+Oman,Thailand,1,45,52,-31,-50,1
+Bahrain,Malaysia,1,49,53,-54,-76,1
+Mexico,Iceland,1,12,43,62,-81,1
+Switzerland,United States,1,17,14,4,57,1
+Germany,Denmark,1,9,19,52,-9,0
+Mexico,Costa Rica,1,12,28,62,-58,0
+United States,Honduras,1,14,50,57,-86,1
+United Arab Emirates,Malaysia,1,41,53,9,-76,1
+Argentina,Chile,1,1,37,108,10,0
+Peru,Colombia,1,29,13,-42,66,0
+Kuwait,Australia,1,55,21,-57,24,0
+Nigeria,Cameroon,1,30,33,-12,-23,0
+Spain,Portugal,1,2,6,103,77,0
+Belgium,Croatia,1,8,10,63,-5,1
+Honduras,Costa Rica,1,50,28,-86,-58,0
+United States,Mexico,1,14,12,57,62,1
+United Arab Emirates,Thailand,1,41,52,9,-50,1
+Bahrain,Iran,1,49,18,-54,45,0
+Qatar,Oman,1,34,45,-1,-31,1
+Cameroon,Nigeria,1,33,30,-23,-12,0
+Poland,Iceland,1,27,43,-33,-81,0
+Colombia,Argentina,1,13,1,66,108,0
+United States,Costa Rica,1,14,28,57,-58,1
+South Africa,Uganda,1,36,48,-7,-31,1
+Kuwait,Jordan,1,55,40,-57,-23,0
+Tunisia,Algeria,1,32,26,-6,7,0
+Italy,Turkey,3,11,22,-2,-20,1
+Ghana,Ivory Coast,1,44,31,-12,0,0
+Mexico,Honduras,1,12,50,62,-86,0
+England,Croatia,3,4,10,42,-5,1
+Spain,Sweden,3,2,23,103,-1,0
+Argentina,Chile,3,1,37,108,10,0
+Australia,Jordan,1,21,40,24,-23,1
+Iran,Iraq,1,18,38,45,-42,1
+Saudi Arabia,Uzbekistan,1,39,35,-20,-4,1
+Thailand,Malaysia,1,52,53,-50,-76,0
+Germany,France,3,9,3,52,72,0
+Italy,Switzerland,3,11,17,-2,4,1
+Denmark,Belgium,3,19,8,-9,63,0
+Brazil,Peru,3,5,29,187,-42,1
+Argentina,Uruguay,3,1,15,108,45,1
+Spain,Poland,3,2,27,103,-33,0
+Germany,Portugal,3,9,6,52,77,1
+Switzerland,Turkey,3,17,22,4,-20,1
+Colombia,Peru,3,13,29,66,-42,0
+Uruguay,Chile,3,15,37,45,10,0
+Sweden,Poland,3,23,27,-1,-33,1
+Portugal,France,3,6,3,77,72,0
+Brazil,Colombia,3,5,13,187,66,1
+Bahrain,Kuwait,1,49,55,-54,-57,1
+Belgium,Portugal,3,8,6,63,77,1
+Croatia,Spain,3,10,2,-5,103,0
+France,Switzerland,3,3,17,72,4,0
+England,Germany,3,4,9,42,52,1
+Mexico,Panama,1,12,24,62,-74,1
+Switzerland,Spain,3,17,2,4,103,0
+Belgium,Italy,3,8,11,63,-2,0
+Brazil,Chile,3,5,37,187,10,1
+Mexico,Nigeria,1,12,30,62,-12,1
+Uruguay,Colombia,3,15,13,45,66,0
+Qatar,El Salvador,1,34,47,-1,-93,1
+Brazil,Peru,3,5,29,187,-42,1
+Argentina,Colombia,3,1,13,108,66,0
+Italy,Spain,3,11,2,-2,103,0
+England,Denmark,3,4,19,42,-9,1
+Peru,Colombia,3,29,13,-42,66,0
+Brazil,Argentina,3,5,1,187,108,0
+England,Italy,3,4,11,42,-2,0
+Qatar,Panama,1,34,24,-1,-74,0
+South Africa,Zambia,1,36,46,-7,-25,0
+Panama,Honduras,1,24,50,-74,-86,0
+Mexico,El Salvador,1,12,47,62,-93,1
+Costa Rica,Jamaica,1,28,42,-58,-79,1
+Honduras,Qatar,1,50,34,-86,-1,0
+Mexico,Honduras,1,12,50,62,-86,1
+Qatar,El Salvador,1,34,47,-1,-93,1
+United States,Jamaica,1,14,42,57,-79,1
+United States,Qatar,1,14,34,57,-1,1
+United States,Mexico,1,14,12,57,62,1
+El Salvador,Costa Rica,1,47,28,-93,-58,0
+South Korea,Iraq,1,20,38,44,-42,0
+Japan,Oman,1,16,45,97,-31,0
+Australia,China PR,1,21,51,24,-47,1
+Sweden,Spain,1,23,2,-1,103,1
+Estonia,Belgium,1,54,8,-118,63,0
+Peru,Uruguay,1,29,15,-42,45,0
+Chile,Brazil,1,37,5,10,187,0
+El Salvador,United States,1,47,14,-93,57,0
+Panama,Costa Rica,1,24,28,-74,-58,0
+Mexico,Jamaica,1,12,42,62,-79,1
+Qatar,Portugal,1,34,6,-1,77,0
+Sweden,Uzbekistan,1,23,35,-1,-4,1
+Switzerland,Italy,1,17,11,4,-2,0
+Costa Rica,Mexico,1,28,12,-58,62,0
+El Salvador,Honduras,1,47,50,-93,-86,0
+Jamaica,Panama,1,42,24,-79,-74,0
+Ivory Coast,Cameroon,1,31,33,0,-23,1
+South Africa,Ghana,1,36,44,-7,-12,1
+Bahrain,Jordan,1,49,40,-54,-23,0
+Zambia,Tunisia,1,46,32,-25,-6,0
+Iraq,Iran,1,38,18,-42,45,0
+China PR,Japan,1,51,16,-47,97,0
+Oman,Saudi Arabia,1,45,39,-31,-20,0
+Netherlands,Turkey,1,7,22,47,-20,1
+Poland,England,1,27,4,-33,42,0
+Iceland,Germany,1,43,9,-81,52,0
+Costa Rica,Jamaica,1,28,42,-58,-79,0
+Panama,Mexico,1,24,12,-74,62,0
+Honduras,United States,1,50,14,-86,57,0
+Colombia,Chile,1,13,37,66,10,1
+Brazil,Peru,1,5,29,187,-42,1
+Jordan,Malaysia,1,40,53,-23,-76,1
+Italy,Spain,2,11,2,-2,103,0
+United Arab Emirates,Iran,1,41,18,9,45,0
+Saudi Arabia,Japan,1,39,16,-20,97,1
+Australia,Oman,1,21,45,24,-31,1
+Honduras,Costa Rica,1,50,28,-86,-58,0
+United States,Jamaica,1,14,42,57,-79,1
+El Salvador,Panama,1,47,24,-93,-74,1
+Peru,Chile,1,29,37,-42,10,1
+Uruguay,Colombia,1,15,13,45,66,0
+Belgium,France,2,8,3,63,72,0
+Portugal,Qatar,1,6,34,77,-1,1
+Uzbekistan,Malaysia,1,35,53,-4,-76,1
+Costa Rica,El Salvador,1,28,47,-58,-93,1
+Panama,United States,1,24,14,-74,57,1
+Mexico,Honduras,1,12,50,62,-86,1
+Colombia,Brazil,1,13,5,66,187,0
+Argentina,Uruguay,1,1,15,108,45,1
+Italy,Belgium,2,11,8,-2,63,1
+Spain,France,2,2,3,103,72,0
+Iran,South Korea,1,18,20,45,44,0
+United Arab Emirates,Iraq,1,41,38,9,-42,0
+Japan,Australia,1,16,21,97,24,1
+Saudi Arabia,China PR,1,39,51,-20,-47,1
+Jordan,Uzbekistan,1,40,35,-23,-4,1
+Honduras,Jamaica,1,50,42,-86,-79,0
+United States,Costa Rica,1,14,28,57,-58,1
+El Salvador,Mexico,1,47,12,-93,62,0
+Argentina,Peru,1,1,29,108,-42,1
+Brazil,Uruguay,1,5,15,187,45,1
+South Korea,United Arab Emirates,1,20,41,44,9,1
+China PR,Oman,1,51,45,-47,-31,0
+Australia,Saudi Arabia,1,21,39,24,-20,0
+Brazil,Colombia,1,5,13,187,66,1
+Honduras,Panama,1,50,24,-86,-74,0
+El Salvador,Jamaica,1,47,42,-93,-79,0
+United States,Mexico,1,14,12,57,62,1
+Italy,Switzerland,1,11,17,-2,4,0
+Uruguay,Argentina,1,15,1,45,108,0
+Belgium,Estonia,1,8,54,63,-118,1
+Ghana,South Africa,1,44,36,-12,-7,1
+Spain,Sweden,1,2,23,103,-1,1
+Tunisia,Zambia,1,32,46,-6,-25,1
+Cameroon,Ivory Coast,1,33,31,-23,0,1
+Iraq,South Korea,1,38,20,-42,44,0
+China PR,Australia,1,51,21,-47,24,0
+Oman,Japan,1,45,16,-31,97,0
+Jamaica,United States,1,42,14,-79,57,0
+Costa Rica,Honduras,1,28,50,-58,-86,1
+Panama,El Salvador,1,24,47,-74,-93,1
+Argentina,Brazil,1,1,5,108,187,0
+Iraq,Oman,1,38,45,-42,-31,0
+Qatar,Bahrain,1,34,49,-1,-54,1
+Saudi Arabia,Jordan,1,39,40,-20,-23,0
+Bahrain,Iraq,1,49,38,-54,-42,0
+Qatar,Oman,1,34,45,-1,-31,1
+Oman,Bahrain,1,45,49,-31,-54,1
+Qatar,Iraq,1,34,38,-1,-42,1
+Tunisia,United Arab Emirates,1,32,41,-6,9,1
+Algeria,Egypt,1,26,25,7,1,0
+Mexico,Chile,1,12,37,62,10,0
+Tunisia,Oman,1,32,45,-6,-31,1
+Qatar,United Arab Emirates,1,34,41,-1,9,1
+Egypt,Jordan,1,25,40,1,-23,1
+El Salvador,Chile,1,47,37,-93,10,0
+Tunisia,Egypt,1,32,25,-6,1,1
+Qatar,Algeria,1,34,26,-1,7,0
+Qatar,Egypt,1,34,25,-1,1,0
+Tunisia,Algeria,1,32,26,-6,7,0
+Algeria,Ghana,1,26,44,7,-12,1
+Nigeria,Egypt,1,30,25,-12,1,1
+Iceland,Uganda,1,43,48,-81,-31,0
+South Korea,Iceland,1,20,43,44,-81,1
+Colombia,Honduras,1,13,50,66,-86,1
+Peru,Panama,1,29,24,-42,-74,0
+Peru,Jamaica,1,29,42,-42,-79,1
+Ivory Coast,Algeria,1,31,26,0,7,1
+Iraq,Uganda,1,38,48,-42,-31,1
+Nigeria,Tunisia,1,30,32,-12,-6,0
+Ivory Coast,Egypt,1,31,25,0,1,0
+Bahrain,Uganda,1,49,48,-54,-31,1
+Jamaica,Mexico,1,42,12,-79,62,0
+United States,El Salvador,1,14,47,57,-93,1
+Costa Rica,Panama,1,28,24,-58,-74,1
+Iran,Iraq,1,18,38,45,-42,1
+Japan,China PR,1,16,51,97,-47,1
+Saudi Arabia,Oman,1,39,45,-20,-31,1
+Chile,Argentina,1,37,1,10,108,0
+Colombia,Peru,1,13,29,66,-42,0
+Mexico,Costa Rica,1,12,28,62,-58,0
+Panama,Jamaica,1,24,42,-74,-79,1
+Honduras,El Salvador,1,50,47,-86,-93,0
+Iran,United Arab Emirates,1,18,41,45,9,1
+Japan,Saudi Arabia,1,16,39,97,-20,1
+Oman,Australia,1,45,21,-31,24,0
+Argentina,Colombia,1,1,13,108,66,1
+United States,Honduras,1,14,50,57,-86,1
+Jamaica,Costa Rica,1,42,28,-79,-58,0
+Mexico,Panama,1,12,24,62,-74,1
+Cameroon,Egypt,1,33,25,-23,1,0
+Iraq,Zambia,1,38,46,-42,-25,1
+Jamaica,El Salvador,1,42,47,-79,-93,0
+Mexico,United States,1,12,14,62,57,0
+Panama,Honduras,1,24,50,-74,-86,0
+Iraq,United Arab Emirates,1,38,41,-42,9,1
+South Korea,Iran,1,20,18,44,45,1
+China PR,Saudi Arabia,1,51,39,-47,-20,0
+Australia,Japan,1,21,16,24,97,0
+Brazil,Chile,1,5,37,187,10,1
+Uruguay,Peru,1,15,29,45,-42,1
+Portugal,Turkey,1,6,22,77,-20,1
+Cameroon,Algeria,1,33,26,-23,7,0
+Ghana,Nigeria,1,44,30,-12,-12,0
+France,Ivory Coast,1,3,31,72,0,1
+England,Switzerland,1,4,17,42,4,1
+Netherlands,Denmark,1,7,19,47,-9,1
+El Salvador,Costa Rica,1,47,28,-93,-58,0
+Honduras,Mexico,1,50,12,-86,62,0
+United States,Panama,1,14,24,57,-74,1
+Algeria,Cameroon,1,26,33,7,-23,0
+Nigeria,Ghana,1,30,44,-12,-12,0
+United Arab Emirates,South Korea,1,41,20,9,44,1
+Oman,China PR,1,45,51,-31,-47,1
+Saudi Arabia,Australia,1,39,21,-20,24,1
+Chile,Uruguay,1,37,15,10,45,0
+Poland,Sweden,1,27,23,-33,-1,1
+England,Ivory Coast,1,4,31,42,0,1
+France,South Africa,1,3,36,72,-7,1
+Netherlands,Germany,1,7,9,47,52,0
+Spain,Iceland,1,2,43,103,-81,1
+Turkey,Italy,1,22,11,-20,-2,0
+Uzbekistan,Uganda,1,35,48,-4,-31,1
+Mexico,El Salvador,1,12,47,62,-93,1
+Costa Rica,United States,1,28,14,-58,57,1
+Jamaica,Honduras,1,42,50,-79,-86,1
+Thailand,Bahrain,1,52,49,-50,-54,1
+Mexico,Nigeria,1,12,30,62,-12,1
+Thailand,Bahrain,1,52,49,-50,-54,0
+Italy,Argentina,1,11,1,-2,108,0
+Australia,Jordan,1,21,40,24,-23,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Spain,Portugal,2,2,6,103,77,0
+South Korea,Brazil,1,20,5,44,187,0
+Mexico,Uruguay,1,12,15,62,45,0
+Ivory Coast,Zambia,1,31,46,0,-25,1
+France,Denmark,2,3,19,72,-9,0
+Belgium,Netherlands,2,8,7,63,47,0
+Algeria,Uganda,1,26,48,7,-31,1
+Italy,Germany,2,11,9,-2,52,0
+Portugal,Switzerland,2,6,17,77,4,1
+Argentina,Estonia,1,1,54,108,-118,1
+Saudi Arabia,Colombia,1,39,13,-20,66,0
+United States,Uruguay,1,14,15,57,45,0
+Croatia,France,2,10,3,-5,72,0
+South Korea,Chile,1,20,37,44,10,1
+Japan,Brazil,1,16,5,97,187,0
+Germany,England,2,9,4,52,42,0
+United Arab Emirates,Australia,1,41,21,9,24,0
+Belgium,Poland,2,8,27,63,-33,1
+Switzerland,Spain,2,17,2,4,103,0
+Denmark,Croatia,2,19,10,-9,-5,0
+Chile,Tunisia,1,37,32,10,-6,0
+Japan,Ghana,1,16,44,97,-12,1
+Malaysia,Bahrain,1,53,49,-76,-54,0
+England,Italy,2,4,11,42,-2,0
+Netherlands,Poland,2,7,27,47,-33,0
+Uruguay,Panama,1,15,24,45,-74,1
+Switzerland,Portugal,2,17,6,4,77,1
+Iran,Algeria,1,18,26,45,7,0
+Australia,Peru,1,21,29,24,-42,0
+France,Croatia,2,3,10,72,-5,0
+Kuwait,Jordan,1,55,40,-57,-23,0
+Uzbekistan,Thailand,1,35,52,-4,-50,1
+Jamaica,Mexico,1,42,12,-79,62,0
+El Salvador,United States,1,47,14,-93,57,0
+Germany,Italy,2,9,11,52,-2,1
+Poland,Belgium,2,27,8,-33,63,0
+Chile,Ghana,1,37,44,10,-12,0
+Japan,Tunisia,1,16,32,97,-6,0
+South Korea,Egypt,1,20,25,44,1,1
+China PR,South Korea,1,51,20,-47,44,0
+Japan,China PR,1,16,51,97,-47,0
+Japan,South Korea,1,16,20,97,44,1
+Thailand,Malaysia,1,52,53,-50,-76,0
+Croatia,Denmark,2,10,19,-5,-9,1
+Poland,Netherlands,2,27,7,-33,47,0
+Japan,United States,1,16,14,97,57,1
+Argentina,Honduras,1,1,50,108,-86,1
+Brazil,Ghana,1,5,44,187,-12,1
+Cameroon,Uzbekistan,1,33,35,-23,-4,0
+Iran,Uruguay,1,18,15,45,45,1
+Iraq,Oman,1,38,45,-42,-31,0
+South Korea,Costa Rica,1,20,28,44,-58,0
+Italy,England,2,11,4,-2,42,1
+Mexico,Peru,1,12,29,62,-42,1
+Spain,Switzerland,2,2,17,103,4,0
+Denmark,France,2,19,3,-9,72,1
+Netherlands,Belgium,2,7,8,47,63,1
+Jordan,Oman,1,40,45,-23,-31,1
+England,Germany,2,4,9,42,52,0
+Algeria,Nigeria,1,26,30,7,-12,1
+Argentina,Jamaica,1,1,42,108,-79,1
+Bahrain,Panama,1,49,24,-54,-74,0
+Brazil,Tunisia,1,5,32,187,-6,1
+Costa Rica,Uzbekistan,1,28,35,-58,-4,1
+South Korea,Cameroon,1,20,33,44,-23,1
+Mexico,Colombia,1,12,13,62,66,0
+Peru,El Salvador,1,29,47,-42,-93,1
+Qatar,Chile,1,34,37,-1,10,0
+Saudi Arabia,United States,1,39,14,-20,57,0
+Portugal,Spain,2,6,2,77,103,0
+Qatar,Honduras,1,34,50,-1,-86,1
+Saudi Arabia,Honduras,1,39,50,-20,-86,0
+Saudi Arabia,Iceland,1,39,43,-20,-81,1
+Qatar,Panama,1,34,24,-1,-74,1
+Cameroon,Jamaica,1,33,42,-23,-79,0
+Costa Rica,Nigeria,1,28,30,-58,-12,1
+Mexico,Iraq,1,12,38,62,-42,1
+Saudi Arabia,Panama,1,39,24,-20,-74,0
+South Korea,Iceland,1,20,43,44,-81,1
+Iran,Tunisia,1,18,32,45,-6,0
+Mexico,Sweden,1,12,23,62,-1,0
+Oman,Germany,1,45,9,-31,52,0
+Poland,Chile,1,27,37,-33,10,1
+Saudi Arabia,Croatia,1,39,10,-20,-5,0
+United Arab Emirates,Argentina,1,41,1,9,108,0
+Jordan,Spain,1,40,2,-23,103,0
+Portugal,Nigeria,1,6,30,77,-12,1
+Switzerland,Ghana,1,17,44,4,-12,0
+Cameroon,Panama,1,33,24,-23,-74,0
+Egypt,Belgium,1,25,8,1,63,1
+Sweden,Algeria,1,23,26,-1,7,1
+England,Iran,3,4,18,42,45,1
+Argentina,Saudi Arabia,3,1,39,108,-20,0
+Mexico,Poland,3,12,27,62,-33,0
+Denmark,Tunisia,3,19,32,-9,-6,0
+France,Australia,3,3,21,72,24,1
+Germany,Japan,3,9,16,52,97,0
+Spain,Costa Rica,3,2,28,103,-58,1
+Switzerland,Cameroon,3,17,33,4,-23,1
+Uruguay,South Korea,3,15,20,45,44,0
+Portugal,Ghana,3,6,44,77,-12,1
+England,United States,3,4,14,42,57,0
+Poland,Saudi Arabia,3,27,39,-33,-20,1
+Argentina,Mexico,3,1,12,108,62,1
+Tunisia,Australia,3,32,21,-6,24,0
+France,Denmark,3,3,19,72,-9,1
+Japan,Costa Rica,3,16,28,97,-58,0
+Spain,Germany,3,2,9,103,52,0
+Brazil,Switzerland,3,5,17,187,4,1
+South Korea,Ghana,3,20,44,44,-12,0
+Portugal,Uruguay,3,6,15,77,45,1
+Qatar,Netherlands,3,34,7,-1,47,0
+Iran,United States,3,18,14,45,57,0
+Poland,Argentina,3,27,1,-33,108,0
+Saudi Arabia,Mexico,3,39,12,-20,62,0
+Australia,Denmark,3,21,19,24,-9,1
+Tunisia,France,3,32,3,-6,72,1
+Japan,Spain,3,16,2,97,103,1
+Costa Rica,Germany,3,28,9,-58,52,0
+Croatia,Belgium,3,10,8,-5,63,0
+Cameroon,Brazil,3,33,5,-23,187,1
+Ghana,Uruguay,3,44,15,-12,45,0
+South Korea,Portugal,3,20,6,44,77,1
+Netherlands,United States,3,7,14,47,57,1
+Argentina,Australia,3,1,21,108,24,1
+France,Poland,3,3,27,72,-33,1
+Japan,Croatia,3,16,10,97,-5,0
+Brazil,South Korea,3,5,20,187,44,1
+Portugal,Switzerland,3,6,17,77,4,1
+Croatia,Brazil,3,10,5,-5,187,0
+Netherlands,Argentina,3,7,1,47,108,0
+England,France,3,4,3,42,72,0
+Argentina,Croatia,3,1,10,108,-5,1
+Argentina,France,3,1,3,108,72,0
+Iraq,Kuwait,1,38,55,-42,-57,1
+Iraq,Oman,1,38,45,-42,-31,0
+Bahrain,United Arab Emirates,1,49,41,-54,9,1
+Kuwait,Qatar,1,55,34,-57,-1,0
+Malaysia,Thailand,1,53,52,-76,-50,1
+Iceland,Estonia,1,43,54,-81,-118,0
+Iraq,Saudi Arabia,1,38,39,-42,-20,1
+United Arab Emirates,Kuwait,1,41,55,9,-57,0
+Qatar,Bahrain,1,34,49,-1,-54,0
+Thailand,Malaysia,1,52,53,-50,-76,1
+Sweden,Iceland,1,23,43,-1,-81,1
+Saudi Arabia,Oman,1,39,45,-20,-31,0
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Qatar,United Arab Emirates,1,34,41,-1,9,0
+Iraq,Qatar,1,38,34,-42,-1,1
+Bahrain,Oman,1,49,45,-54,-31,0
+Iraq,Oman,1,38,45,-42,-31,1
+United States,Colombia,1,14,13,57,66,0
+Honduras,El Salvador,1,50,47,-86,-93,1
+Argentina,Panama,1,1,24,108,-74,1
+Italy,England,1,11,4,-2,42,0
+Japan,Uruguay,1,16,15,97,45,0
+South Korea,Colombia,1,20,13,44,66,0
+France,Netherlands,1,3,7,72,47,1
+Sweden,Belgium,1,23,8,-1,63,0
+Germany,Peru,1,9,29,52,-42,1
+Mexico,Jamaica,1,12,42,62,-79,0
+United States,El Salvador,1,14,47,57,-93,1
+Germany,Belgium,1,9,8,52,63,0
+Japan,Colombia,1,16,13,97,66,0
+South Korea,Uruguay,1,20,15,44,45,0
+United Arab Emirates,Thailand,1,41,52,9,-50,1
+Turkey,Croatia,1,22,10,-20,-5,0
+Costa Rica,Panama,1,28,24,-58,-74,0
+United States,Mexico,1,14,12,57,62,0
+Mexico,Cameroon,1,12,33,62,-23,0
+Uzbekistan,Oman,1,35,45,-4,-31,1
+Netherlands,Croatia,2,7,10,47,-5,0
+United States,Mexico,1,14,12,57,62,1
+Argentina,Australia,1,1,21,108,24,1
+Jamaica,Qatar,1,42,34,-79,-1,0
+Japan,El Salvador,1,16,47,97,-93,1
+Spain,Italy,2,2,11,103,-2,1
+Colombia,Iraq,1,13,38,66,-42,1
+South Korea,Peru,1,20,29,44,-42,0
+Poland,Germany,1,27,9,-33,52,1
+Zambia,Ivory Coast,1,46,31,-25,0,1
+Panama,Mexico,1,24,12,-74,62,0
+Netherlands,Italy,2,7,11,47,-2,0
+Croatia,Spain,2,10,2,-5,103,0
+Uganda,Algeria,1,48,26,-31,7,0
+Jamaica,Jordan,1,42,40,-79,-23,0
+Algeria,Tunisia,1,26,32,7,-6,0
+Germany,Colombia,1,9,13,52,66,0
+Japan,Peru,1,16,29,97,-42,1
+South Korea,El Salvador,1,20,47,44,-93,0
+Estonia,Belgium,1,54,8,-118,63,0
+Iceland,Portugal,1,43,6,-81,77,0
+Uzbekistan,Iran,1,35,18,-4,45,0
+United States,Jamaica,1,14,42,57,-79,0
+Mexico,Honduras,1,12,50,62,-86,1
+Costa Rica,Panama,1,28,24,-58,-74,0
+Qatar,Honduras,1,34,50,-1,-86,0
+El Salvador,Costa Rica,1,47,28,-93,-58,0
+Mexico,Qatar,1,12,34,62,-1,0
+Panama,El Salvador,1,24,47,-74,-93,0
+Panama,Qatar,1,24,34,-74,-1,1
+Mexico,Costa Rica,1,12,28,62,-58,1
+United States,Panama,1,14,24,57,-74,0
+Jamaica,Mexico,1,42,12,-79,62,0
+South Africa,Zambia,1,36,46,-7,-25,0
+Mexico,Panama,1,12,24,62,-74,1
+Bahrain,Kuwait,1,49,55,-54,-57,0
+Jamaica,Honduras,1,42,50,-79,-86,1
+Uruguay,Chile,1,15,37,45,10,1
+Costa Rica,Saudi Arabia,1,28,39,-58,-20,1
+China PR,Malaysia,1,51,53,-47,-76,0
+Germany,Japan,1,9,16,52,97,0
+Mexico,Australia,1,12,21,62,24,0
+United States,Uzbekistan,1,14,35,57,-4,1
+Estonia,Sweden,1,54,23,-118,-1,0
+Thailand,Iraq,1,52,38,-50,-42,0
+Peru,Brazil,1,29,5,-42,187,0
+Chile,Colombia,1,37,13,10,66,0
+Egypt,Tunisia,1,25,32,1,-6,0
+Germany,France,1,9,3,52,72,1
+Japan,Turkey,1,16,22,97,-20,1
+South Korea,Saudi Arabia,1,20,39,44,-20,1
+Mexico,Uzbekistan,1,12,35,62,-4,0
+United Arab Emirates,Costa Rica,1,41,28,9,-58,1
+United States,Oman,1,14,45,57,-31,1
+Belgium,Estonia,1,8,54,63,-118,1
+Colombia,Uruguay,1,13,15,66,45,0
+Chile,Peru,1,37,29,10,-42,1
+Egypt,Zambia,1,25,46,1,-25,1
+Croatia,Turkey,1,10,22,-5,-20,0
+England,Australia,1,4,21,42,24,1
+Iraq,Qatar,1,38,34,-42,-1,0
+South Korea,Tunisia,1,20,32,44,-6,1
+Nigeria,Saudi Arabia,1,30,39,-12,-20,0
+Netherlands,France,1,7,3,47,72,0
+Mexico,Ghana,1,12,44,62,-12,1
+United States,Germany,1,14,9,57,52,0
+Algeria,Egypt,1,26,25,7,1,0
+China PR,Uzbekistan,1,51,35,-47,-4,0
+Belgium,Sweden,1,8,23,63,-1,0
+Peru,Argentina,1,29,1,-42,108,0
+Uruguay,Brazil,1,15,5,45,187,1
+Estonia,Thailand,1,54,52,-118,-50,0
+Ivory Coast,South Africa,1,31,36,0,-7,0
+Mexico,Germany,1,12,9,62,52,0
+United States,Ghana,1,14,44,57,-12,1
+Zambia,Uganda,1,46,48,-25,-31,1
+England,Italy,1,4,11,42,-2,1
+United Arab Emirates,Kuwait,1,41,55,9,-57,1
+Costa Rica,Panama,1,28,24,-58,-74,0
+Colombia,Brazil,1,13,5,66,187,1
+Argentina,Uruguay,1,1,15,108,45,0
+Thailand,China PR,1,52,51,-50,-47,0
+Honduras,Mexico,1,50,12,-86,62,1
+Germany,Turkey,1,9,22,52,-20,0
+Sweden,Estonia,1,23,54,-1,-118,1
+Portugal,Iceland,1,6,43,77,-81,1
+Panama,Costa Rica,1,24,28,-74,-58,1
+Mexico,Honduras,1,12,50,62,-86,1
+Brazil,Argentina,1,5,1,187,108,0
+China PR,South Korea,1,51,20,-47,44,0
+Uzbekistan,Iran,1,35,18,-4,45,0
+Jordan,Saudi Arabia,1,40,39,-23,-20,0
+Bahrain,United Arab Emirates,1,49,41,-54,9,0
+Mexico,Colombia,1,12,13,62,66,0
+Japan,Thailand,1,16,52,97,-50,1
+Qatar,Jordan,1,34,40,-1,-23,0
+Iraq,South Korea,1,38,20,-42,44,0
+Bahrain,Australia,1,49,21,-54,24,0
+United Arab Emirates,Oman,1,41,45,9,-31,0
+Japan,Jordan,1,16,40,97,-23,1
+Zambia,Cameroon,1,46,33,-25,-23,0
+Sweden,Estonia,1,23,54,-1,-118,1
+South Korea,Bahrain,1,20,49,44,-54,1
+Malaysia,Jordan,1,53,40,-76,-23,0
+Saudi Arabia,Oman,1,39,45,-20,-31,1
+Honduras,Iceland,1,50,43,-86,-81,0
+Ivory Coast,Nigeria,1,31,30,0,-12,0
+Egypt,Ghana,1,25,44,1,-12,0
+Iraq,Japan,1,38,16,-42,97,1
+Kuwait,Uganda,1,55,48,-57,-31,0
+Jordan,South Korea,1,40,20,-23,44,0
+Bahrain,Malaysia,1,49,53,-54,-76,1
+Oman,Thailand,1,45,52,-31,-50,0
+Qatar,China PR,1,34,51,-1,-47,1
+Australia,Uzbekistan,1,21,35,24,-4,0
+Iran,United Arab Emirates,1,18,41,45,9,1
+South Africa,Tunisia,1,36,32,-7,-6,0
+Jordan,Bahrain,1,40,49,-23,-54,0
+South Korea,Malaysia,1,20,53,44,-76,0
+Saudi Arabia,Thailand,1,39,52,-20,-50,0
+Nigeria,Cameroon,1,30,33,-12,-23,1
+Iraq,Jordan,1,38,40,-42,-23,0
+Saudi Arabia,South Korea,1,39,20,-20,44,0
+Uzbekistan,Thailand,1,35,52,-4,-50,1
+Bahrain,Japan,1,49,16,-54,97,0
+Australia,South Korea,1,21,20,24,44,0
+Iran,Japan,1,18,16,45,97,1
+Qatar,Uzbekistan,1,34,35,-1,-4,0
+Costa Rica,El Salvador,1,28,47,-58,-93,1
+Jordan,South Korea,1,40,20,-23,44,1
+Qatar,Iran,1,34,18,-1,45,1
+Nigeria,South Africa,1,30,36,-12,-7,0
+Qatar,Jordan,1,34,40,-1,-23,1
+Ivory Coast,Nigeria,1,31,30,0,-12,1
+Panama,Mexico,1,24,12,-74,62,0
+United States,Jamaica,1,14,42,57,-79,1
+Poland,Estonia,1,27,54,-33,-118,1
+Qatar,Kuwait,1,34,55,-1,-57,1
+South Korea,Thailand,1,20,52,44,-50,0
+Oman,Malaysia,1,45,53,-31,-76,1
+Portugal,Sweden,1,6,23,77,-1,1
+Argentina,El Salvador,1,1,47,108,-93,1
+Nigeria,Ghana,1,30,44,-12,-12,1
+Spain,Colombia,1,2,13,103,66,0
+Tunisia,Croatia,1,32,10,-6,-5,0
+Costa Rica,Honduras,1,28,50,-58,-86,1
+Denmark,Switzerland,1,19,17,-9,4,0
+England,Brazil,1,4,5,42,187,0
+France,Germany,1,3,9,72,52,0
+Jamaica,Panama,1,42,24,-79,-74,1
+United States,Mexico,1,14,12,57,62,1
+Algeria,South Africa,1,26,36,7,-7,0
+Egypt,Croatia,1,25,10,1,-5,0
+Kuwait,Qatar,1,55,34,-57,-1,0
+Thailand,South Korea,1,52,20,-50,44,0
+Malaysia,Oman,1,53,45,-76,-31,0
+Argentina,Costa Rica,1,1,28,108,-58,1
+El Salvador,Honduras,1,47,50,-93,-86,0
+England,Belgium,1,4,8,42,63,0
+France,Chile,1,3,37,72,10,1
+Germany,Netherlands,1,9,7,52,47,1
+Ivory Coast,Uruguay,1,31,15,0,45,1
+Spain,Brazil,1,2,5,103,187,0
+Costa Rica,Uruguay,1,28,15,-58,45,0
+Italy,Turkey,1,11,22,-2,-20,0
+Switzerland,Estonia,1,17,54,4,-118,1
+Denmark,Sweden,1,19,23,-9,-1,1
+Mexico,Uruguay,1,12,15,62,45,0
+China PR,Thailand,1,51,52,-47,-50,0
+England,Iceland,1,4,43,42,-81,0
+Nigeria,South Africa,1,30,36,-12,-7,0
+Mexico,Brazil,1,12,5,62,187,0
+Portugal,Croatia,1,6,10,77,-5,0
+United States,Colombia,1,14,13,57,66,0
+Netherlands,Iceland,1,7,43,47,-81,1
+Poland,Turkey,1,27,22,-33,-20,1
+Uganda,Algeria,1,48,26,-31,7,0
+South Korea,China PR,1,20,51,44,-47,1
+Iran,Uzbekistan,1,18,35,45,-4,0
+Saudi Arabia,Jordan,1,39,40,-20,-23,0
+United Arab Emirates,Bahrain,1,41,49,9,-54,0
+United States,Brazil,1,14,5,57,187,0
+El Salvador,Peru,1,47,29,-93,-42,0
+Spain,Croatia,3,2,10,103,-5,1
+Poland,Netherlands,3,27,7,-33,47,0
+Spain,Italy,3,2,11,103,-2,1
+Denmark,England,3,19,4,-9,42,0
+Netherlands,France,3,7,3,47,72,0
+Peru,Chile,3,29,37,-42,10,0
+Turkey,Portugal,3,22,6,-20,77,0
+Mexico,Jamaica,3,12,42,62,-79,1
+Germany,Switzerland,3,9,17,52,4,0
+Uruguay,Panama,3,15,24,45,-74,1
+Croatia,Italy,3,10,11,-5,-2,0
+Brazil,Costa Rica,3,5,28,187,-58,0
+France,Poland,3,3,27,72,-33,0
+Chile,Argentina,3,37,1,10,108,0
+United States,Panama,3,14,24,57,-74,0
+Colombia,Costa Rica,3,13,28,66,-58,1
+Switzerland,Italy,3,17,11,4,-2,1
+Germany,Denmark,3,9,19,52,-9,1
+Argentina,Peru,3,1,29,108,-42,1
+France,Belgium,3,3,8,72,63,1
+United States,Uruguay,3,14,15,57,45,0
+Brazil,Colombia,3,5,13,187,66,0
+Germany,Spain,3,9,2,52,103,0
+Portugal,France,3,6,3,77,72,0
+England,Switzerland,3,4,17,42,4,0
+Netherlands,Turkey,3,7,22,47,-20,1
+Uruguay,Brazil,3,15,5,45,187,0
+Colombia,Panama,3,13,24,66,-74,1
+Spain,France,3,2,3,103,72,1
+Netherlands,England,3,7,4,47,42,0
+Uruguay,Colombia,3,15,13,45,66,0
+Spain,England,3,2,4,103,42,1
+Argentina,Colombia,3,1,13,108,66,1
+Portugal,Croatia,2,6,10,77,-5,1
+Denmark,Switzerland,2,19,17,-9,4,1
+Argentina,Chile,1,1,37,108,10,1
+Qatar,United Arab Emirates,1,34,41,-1,9,0
+Iraq,Oman,1,38,45,-42,-31,1
+Jordan,Kuwait,1,40,55,-23,-57,0
+Japan,China PR,1,16,51,97,-47,1
+Australia,Bahrain,1,21,49,24,-54,0
+Ivory Coast,Zambia,1,31,46,0,-25,1
+South Africa,Uganda,1,36,48,-7,-31,0
+France,Italy,2,3,11,72,-2,0
+Peru,Colombia,1,29,13,-42,66,0
+Croatia,Poland,2,10,27,-5,-33,1
+Switzerland,Spain,2,17,2,4,103,0
+Sweden,Estonia,2,23,54,-1,-118,1
+France,Belgium,2,3,8,72,63,1
+Turkey,Iceland,2,22,43,-20,-81,1
+Honduras,Jamaica,1,50,42,-86,-79,0
+Netherlands,Germany,2,7,9,47,52,0
+Colombia,Argentina,1,13,1,66,108,1
+United Arab Emirates,Iran,1,41,18,9,45,0
+Oman,South Korea,1,45,20,-31,44,0
+Kuwait,Iraq,1,55,38,-57,-42,0
+Bahrain,Japan,1,49,16,-54,97,0
+China PR,Saudi Arabia,1,51,39,-47,-20,0
+Italy,Belgium,2,11,8,-2,63,0
+Chile,Brazil,1,37,5,10,187,0
+Uzbekistan,Iran,1,35,18,-4,45,0
+Jordan,South Korea,1,40,20,-23,44,0
+Oman,Kuwait,1,45,55,-31,-57,1
+Australia,China PR,1,21,51,24,-47,1
+Saudi Arabia,Japan,1,39,16,-20,97,0
+Peru,Uruguay,1,29,15,-42,45,1
+United States,Panama,1,14,24,57,-74,1
+Poland,Portugal,2,27,6,-33,77,0
+Spain,Denmark,2,2,19,103,-9,1
+Jamaica,Honduras,1,42,50,-79,-86,0
+Belgium,France,2,8,3,63,72,0
+Germany,Netherlands,2,9,7,52,47,1
+Iceland,Turkey,2,43,22,-81,-20,0
+Estonia,Sweden,2,54,23,-118,-1,0
+Mexico,United States,1,12,14,62,57,1
+Poland,Croatia,2,27,10,-33,-5,0
+Switzerland,Denmark,2,17,19,4,-9,0
+Colombia,Chile,1,13,37,66,10,1
+Brazil,Peru,1,5,29,187,-42,1
+Uzbekistan,United Arab Emirates,1,35,41,-4,9,1
+Iran,Qatar,1,18,34,45,-1,1
+Jordan,Oman,1,40,45,-23,-31,1
+South Korea,Iraq,1,20,38,44,-42,1
+Japan,Australia,1,16,21,97,24,0
+Saudi Arabia,Bahrain,1,39,49,-20,-54,0
+Belgium,Italy,2,8,11,63,-2,0
+Costa Rica,Panama,1,28,24,-58,-74,0
+Jamaica,United States,1,42,14,-79,57,0
+Qatar,Uzbekistan,1,34,35,-1,-4,1
+Kuwait,South Korea,1,55,20,-57,44,0
+Iraq,Jordan,1,38,40,-42,-23,0
+Bahrain,China PR,1,49,51,-54,-47,0
+Australia,Saudi Arabia,1,21,39,24,-20,0
+Portugal,Poland,2,6,27,77,-33,1
+Denmark,Spain,2,19,2,-9,103,0
+Honduras,Mexico,1,50,12,-86,62,1
+Peru,Chile,1,29,37,-42,10,0
+Uruguay,Colombia,1,15,13,45,66,1
+Italy,France,2,11,3,-2,72,0
+Croatia,Portugal,2,10,6,-5,77,0
+Spain,Switzerland,2,2,17,103,4,1
+Panama,Costa Rica,1,24,28,-74,-58,0
+United States,Jamaica,1,14,42,57,-79,1
+Mexico,Honduras,1,12,50,62,-86,1
+Argentina,Peru,1,1,29,108,-42,1
+Brazil,Uruguay,1,5,15,187,45,0
+United Arab Emirates,Qatar,1,41,34,9,-1,1
+Oman,Iraq,1,45,38,-31,-42,0
+Kuwait,Jordan,1,55,40,-57,-23,0
+Bahrain,Australia,1,49,21,-54,24,0
+China PR,Japan,1,51,16,-47,97,0
+Thailand,Malaysia,1,52,53,-50,-76,1
+Kuwait,Oman,1,55,45,-57,-31,0
+Qatar,United Arab Emirates,1,34,41,-1,9,0
+Saudi Arabia,Bahrain,1,39,49,-20,-54,0
+Oman,Qatar,1,45,34,-31,-1,1
+Kuwait,United Arab Emirates,1,55,41,-57,9,1
+Bahrain,Iraq,1,49,38,-54,-42,1
+Kuwait,Qatar,1,55,34,-57,-1,0
+United Arab Emirates,Oman,1,41,45,9,-31,0
+Iraq,Saudi Arabia,1,38,39,-42,-20,0
+Oman,Saudi Arabia,1,45,39,-31,-20,1
+Kuwait,Bahrain,1,55,49,-57,-54,0
+Oman,Bahrain,1,45,49,-31,-54,0
+United States,Costa Rica,1,14,28,57,-58,1
+Uzbekistan,Jordan,1,35,40,-4,-23,0
+Chile,Panama,1,37,24,10,-74,1
+United States,Panama,1,14,24,57,-74,0
+Croatia,France,2,10,3,-5,72,1
+Denmark,Portugal,2,19,6,-9,77,1
+Italy,Germany,2,11,9,-2,52,0
+Netherlands,Spain,2,7,2,47,103,0
+Brazil,Colombia,1,5,13,187,66,1
+Iran,United Arab Emirates,1,18,41,45,9,1
+South Korea,Oman,1,20,45,44,-31,0
+Iraq,Kuwait,1,38,55,-42,-57,0
+Japan,Bahrain,1,16,49,97,-54,1
+Saudi Arabia,China PR,1,39,51,-20,-47,1
+Uruguay,Argentina,1,15,1,45,108,0
+Panama,Mexico,1,24,12,-74,62,0
+France,Croatia,2,3,10,72,-5,1
+Germany,Italy,2,9,11,52,-2,0
+Portugal,Denmark,2,6,19,77,-9,1
+Spain,Netherlands,2,2,7,103,47,0
+Argentina,Brazil,1,1,5,108,187,1
+Iran,Uzbekistan,1,18,35,45,-4,0
+South Korea,Jordan,1,20,40,44,-23,0
+Kuwait,Oman,1,55,45,-57,-31,0
+China PR,Australia,1,51,21,-47,24,0
+Japan,Saudi Arabia,1,16,39,97,-20,0
+Nigeria,Ghana,1,30,44,-12,-12,1
+Saudi Arabia,Jordan,1,39,40,-20,-23,1
+Jamaica,Nigeria,1,42,30,-79,-12,0
+Germany,Portugal,2,9,6,52,77,0
+Spain,France,2,2,3,103,72,1
+Chile,Argentina,1,37,1,10,108,0
+United Arab Emirates,Uzbekistan,1,41,35,9,-4,0
+Qatar,Iran,1,34,18,-1,45,1
+Oman,Jordan,1,45,40,-31,-23,0
+Iraq,South Korea,1,38,20,-42,44,0
+Bahrain,Saudi Arabia,1,49,39,-54,-20,0
+Australia,Japan,1,21,16,24,97,1
+Uganda,Cameroon,1,48,33,-31,-23,0
+Colombia,Peru,1,13,29,66,-42,0
+Mexico,Switzerland,1,12,17,62,4,0
+United States,Turkey,1,14,22,57,-20,0
+Germany,France,2,9,3,52,72,0
+Portugal,Spain,2,6,2,77,103,0
+Mexico,Turkey,1,12,22,62,-20,1
+Sweden,Algeria,1,23,26,-1,7,1
+United States,Switzerland,1,14,17,57,4,0
+Argentina,Colombia,1,1,13,108,66,0
+Uzbekistan,Qatar,1,35,34,-4,-1,1
+South Korea,Kuwait,1,20,55,44,-57,1
+Jordan,Iraq,1,40,38,-23,-42,0
+China PR,Bahrain,1,51,49,-47,-54,1
+Saudi Arabia,Australia,1,39,21,-20,24,0
+United States,Saudi Arabia,1,14,39,57,-20,1
+Honduras,El Salvador,1,50,47,-86,-93,1
+Mexico,Costa Rica,1,12,28,62,-58,0
+Panama,Jamaica,1,24,42,-74,-79,1
+Panama,Honduras,1,24,50,-74,-86,0
+Mexico,Saudi Arabia,1,12,39,62,-20,1
+United States,Costa Rica,1,14,28,57,-58,0
+Mexico,Honduras,1,12,50,62,-86,1
+United States,Mexico,1,14,12,57,62,0
