@@ -68,7 +68,7 @@ if menu == "Reference Data":
 
     
     df = pd.DataFrame(data)
-    st.sidebar.subheader("📊 Team Rankings & Goal Difference")
+    st.sidebar.subheader("Team Rankings & Goal Difference")
     st.sidebar.dataframe(df, use_container_width=True)
 
 elif menu == "About App":
@@ -95,7 +95,7 @@ elif menu == "About App":
 
 # ------------------------------- FORM FOR MATCH INPUT -------------------------------
 with st.form("match_form"):
-    st.markdown("<h3 style='color:cyan;'>📝 Enter Match Details</h3>", unsafe_allow_html=True)
+    st.markdown("<h3 style='color:cyan;'>Enter Match Details</h3>", unsafe_allow_html=True)
 
     col1, col2 = st.columns(2)
 
@@ -113,7 +113,7 @@ with st.form("match_form"):
         
 
     with col2:
-        st.markdown("🏆 **Select Tournament Type**")
+        st.markdown("**Select Tournament Type**")
         tour_choice = st.radio(
             "Tournament Importance",
             options=[1, 2, 3],
